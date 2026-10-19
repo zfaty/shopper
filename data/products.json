@@ -1,0 +1,2835 @@
+[
+  {
+    "sku": "PAIN-001",
+    "name": "Sahra Paracetamol 500 mg Tablets (24 tablets)",
+    "name_ar": "أقراص باراسيتامول 500 ملغ من صحراء (24 قرص)",
+    "description": "Relieves mild to moderate pain and reduces fever. Pack size: 24 tablets. Not for children under 12.",
+    "description_ar": "يخفف الآلام الخفيفة إلى المتوسطة ويخفض الحرارة. حجم العبوة: 24 قرص. غير مناسب للأطفال دون 12 سنة.",
+    "brand": "Sahra Pharma",
+    "category": "pain-relief",
+    "price": 650,
+    "special_price": 495,
+    "special_from_date": "2026-01-01T00:00:00Z",
+    "special_to_date": "2027-12-31T00:00:00Z",
+    "status": 1,
+    "stock": {
+      "dammam": 93,
+      "jeddah": 117,
+      "riyadh": 13
+    },
+    "requires_prescription": false,
+    "active_ingredient": "paracetamol",
+    "age_min": 12
+  },
+  {
+    "sku": "PAIN-002",
+    "name": "Sahra Paracetamol 500 mg Tablets (48 tablets)",
+    "name_ar": "أقراص باراسيتامول 500 ملغ من صحراء (48 قرص)",
+    "description": "Relieves mild to moderate pain and reduces fever. Pack size: 48 tablets. Not for children under 12.",
+    "description_ar": "يخفف الآلام الخفيفة إلى المتوسطة ويخفض الحرارة. حجم العبوة: 48 قرص. غير مناسب للأطفال دون 12 سنة.",
+    "brand": "Sahra Pharma",
+    "category": "pain-relief",
+    "price": 1175,
+    "special_price": 1000,
+    "status": 1,
+    "stock": {
+      "dammam": 99,
+      "jeddah": 100,
+      "riyadh": 33
+    },
+    "requires_prescription": false,
+    "active_ingredient": "paracetamol",
+    "age_min": 12
+  },
+  {
+    "sku": "PAIN-003",
+    "name": "Sahra Children's Paracetamol Suspension 120 mg/5 ml (100 ml)",
+    "name_ar": "معلق باراسيتامول للأطفال 120 ملغ/5 مل من صحراء (100 مل)",
+    "description": "Strawberry-flavoured fever and pain relief for children from 3 months. Pack size: 100 ml.",
+    "description_ar": "خافض للحرارة ومسكن للألم للأطفال من عمر 3 أشهر بنكهة الفراولة. حجم العبوة: 100 مل.",
+    "brand": "Sahra Pharma",
+    "category": "pain-relief",
+    "price": 1125,
+    "status": 1,
+    "stock": {
+      "dammam": 66,
+      "jeddah": 24,
+      "riyadh": 89
+    },
+    "requires_prescription": false,
+    "active_ingredient": "paracetamol"
+  },
+  {
+    "sku": "PAIN-004",
+    "name": "Sahra Children's Paracetamol Suspension 120 mg/5 ml (150 ml)",
+    "name_ar": "معلق باراسيتامول للأطفال 120 ملغ/5 مل من صحراء (150 مل)",
+    "description": "Strawberry-flavoured fever and pain relief for children from 3 months. Pack size: 150 ml.",
+    "description_ar": "خافض للحرارة ومسكن للألم للأطفال من عمر 3 أشهر بنكهة الفراولة. حجم العبوة: 150 مل.",
+    "brand": "Sahra Pharma",
+    "category": "pain-relief",
+    "price": 1575,
+    "status": 1,
+    "stock": {
+      "dammam": 101,
+      "jeddah": 17,
+      "riyadh": 23
+    },
+    "requires_prescription": false,
+    "active_ingredient": "paracetamol"
+  },
+  {
+    "sku": "PAIN-005",
+    "name": "Sahra Ibuprofen 400 mg Tablets (20 tablets)",
+    "name_ar": "أقراص إيبوبروفين 400 ملغ من صحراء (20 قرص)",
+    "description": "Anti-inflammatory pain relief for headaches, back pain and period pain. Pack size: 20 tablets. Not for children under 12.",
+    "description_ar": "مسكن مضاد للالتهاب لآلام الرأس والظهر وآلام الدورة الشهرية. حجم العبوة: 20 قرص. غير مناسب للأطفال دون 12 سنة.",
+    "brand": "Sahra Pharma",
+    "category": "pain-relief",
+    "price": 975,
+    "status": 1,
+    "stock": {
+      "dammam": 0,
+      "jeddah": 5,
+      "riyadh": 13
+    },
+    "requires_prescription": false,
+    "active_ingredient": "ibuprofen",
+    "age_min": 12
+  },
+  {
+    "sku": "PAIN-006",
+    "name": "Sahra Ibuprofen 400 mg Tablets (30 tablets)",
+    "name_ar": "أقراص إيبوبروفين 400 ملغ من صحراء (30 قرص)",
+    "description": "Anti-inflammatory pain relief for headaches, back pain and period pain. Pack size: 30 tablets. Not for children under 12.",
+    "description_ar": "مسكن مضاد للالتهاب لآلام الرأس والظهر وآلام الدورة الشهرية. حجم العبوة: 30 قرص. غير مناسب للأطفال دون 12 سنة.",
+    "brand": "Sahra Pharma",
+    "category": "pain-relief",
+    "price": 1375,
+    "special_price": 1100,
+    "status": 1,
+    "stock": {
+      "dammam": 60,
+      "jeddah": 36,
+      "riyadh": 89
+    },
+    "requires_prescription": false,
+    "active_ingredient": "ibuprofen",
+    "age_min": 12
+  },
+  {
+    "sku": "PAIN-007",
+    "name": "Sahra Children's Ibuprofen Suspension 100 mg/5 ml (100 ml)",
+    "name_ar": "معلق إيبوبروفين للأطفال 100 ملغ/5 مل من صحراء (100 مل)",
+    "description": "Orange-flavoured relief from fever and teething pain for children from 3 months. Pack size: 100 ml.",
+    "description_ar": "يخفف الحرارة وآلام التسنين للأطفال من عمر 3 أشهر بنكهة البرتقال. حجم العبوة: 100 مل.",
+    "brand": "Sahra Pharma",
+    "category": "pain-relief",
+    "price": 1450,
+    "status": 1,
+    "stock": {
+      "dammam": 69,
+      "jeddah": 0,
+      "riyadh": 34
+    },
+    "requires_prescription": false,
+    "active_ingredient": "ibuprofen"
+  },
+  {
+    "sku": "PAIN-008",
+    "name": "Sahra Children's Ibuprofen Suspension 100 mg/5 ml (200 ml)",
+    "name_ar": "معلق إيبوبروفين للأطفال 100 ملغ/5 مل من صحراء (200 مل)",
+    "description": "Orange-flavoured relief from fever and teething pain for children from 3 months. Pack size: 200 ml.",
+    "description_ar": "يخفف الحرارة وآلام التسنين للأطفال من عمر 3 أشهر بنكهة البرتقال. حجم العبوة: 200 مل.",
+    "brand": "Sahra Pharma",
+    "category": "pain-relief",
+    "price": 2475,
+    "status": 1,
+    "stock": {
+      "dammam": 0,
+      "jeddah": 60,
+      "riyadh": 89
+    },
+    "requires_prescription": false,
+    "active_ingredient": "ibuprofen"
+  },
+  {
+    "sku": "PAIN-009",
+    "name": "Sahra Diclofenac 1% Gel (50 g)",
+    "name_ar": "جل ديكلوفيناك 1٪ من صحراء (50 غ)",
+    "description": "Topical relief for muscle and joint pain. Pack size: 50 g. Not for children under 14.",
+    "description_ar": "مسكن موضعي لآلام العضلات والمفاصل. حجم العبوة: 50 غ. غير مناسب للأطفال دون 14 سنة.",
+    "brand": "Sahra Pharma",
+    "category": "pain-relief",
+    "price": 1800,
+    "status": 1,
+    "stock": {
+      "dammam": 24,
+      "jeddah": 0,
+      "riyadh": 22
+    },
+    "requires_prescription": false,
+    "active_ingredient": "diclofenac",
+    "age_min": 14
+  },
+  {
+    "sku": "PAIN-010",
+    "name": "Sahra Diclofenac 1% Gel (100 g)",
+    "name_ar": "جل ديكلوفيناك 1٪ من صحراء (100 غ)",
+    "description": "Topical relief for muscle and joint pain. Pack size: 100 g. Not for children under 14.",
+    "description_ar": "مسكن موضعي لآلام العضلات والمفاصل. حجم العبوة: 100 غ. غير مناسب للأطفال دون 14 سنة.",
+    "brand": "Sahra Pharma",
+    "category": "pain-relief",
+    "price": 3050,
+    "status": 1,
+    "stock": {
+      "dammam": 59,
+      "jeddah": 35,
+      "riyadh": 9
+    },
+    "requires_prescription": false,
+    "active_ingredient": "diclofenac",
+    "age_min": 14
+  },
+  {
+    "sku": "PAIN-011",
+    "name": "Sahra Naproxen 500 mg Tablets (20 tablets)",
+    "name_ar": "أقراص نابروكسين 500 ملغ من صحراء (20 قرص)",
+    "description": "Prescription anti-inflammatory for arthritis and acute pain. Pack size: 20 tablets. Prescription-only medicine. Not for children under 16.",
+    "description_ar": "مضاد التهاب يصرف بوصفة لعلاج التهاب المفاصل والألم الحاد. حجم العبوة: 20 قرص. دواء يصرف بوصفة طبية فقط. غير مناسب للأطفال دون 16 سنة.",
+    "brand": "Sahra Pharma",
+    "category": "pain-relief",
+    "price": 2100,
+    "status": 1,
+    "stock": {
+      "dammam": 11,
+      "jeddah": 77,
+      "riyadh": 92
+    },
+    "requires_prescription": true,
+    "active_ingredient": "naproxen",
+    "age_min": 16
+  },
+  {
+    "sku": "COLD-001",
+    "name": "Nakheel Cold \u0026 Flu Day Capsules (16 capsules)",
+    "name_ar": "كبسولات البرد والإنفلونزا النهارية من نخيل (16 كبسولة)",
+    "description": "Relieves fever, aches and blocked nose without drowsiness. Pack size: 16 capsules. Not for children under 12.",
+    "description_ar": "يخفف الحرارة والآلام واحتقان الأنف دون التسبب بالنعاس. حجم العبوة: 16 كبسولة. غير مناسب للأطفال دون 12 سنة.",
+    "brand": "Nakheel Health",
+    "category": "cold-flu",
+    "price": 1650,
+    "status": 1,
+    "stock": {
+      "dammam": 35,
+      "jeddah": 0,
+      "riyadh": 38
+    },
+    "requires_prescription": false,
+    "active_ingredient": "paracetamol, pseudoephedrine",
+    "age_min": 12
+  },
+  {
+    "sku": "COLD-002",
+    "name": "Nakheel Cold \u0026 Flu Day Capsules (24 capsules)",
+    "name_ar": "كبسولات البرد والإنفلونزا النهارية من نخيل (24 كبسولة)",
+    "description": "Relieves fever, aches and blocked nose without drowsiness. Pack size: 24 capsules. Not for children under 12.",
+    "description_ar": "يخفف الحرارة والآلام واحتقان الأنف دون التسبب بالنعاس. حجم العبوة: 24 كبسولة. غير مناسب للأطفال دون 12 سنة.",
+    "brand": "Nakheel Health",
+    "category": "cold-flu",
+    "price": 2300,
+    "status": 1,
+    "stock": {
+      "dammam": 84,
+      "jeddah": 97,
+      "riyadh": 26
+    },
+    "requires_prescription": false,
+    "active_ingredient": "paracetamol, pseudoephedrine",
+    "age_min": 12
+  },
+  {
+    "sku": "COLD-003",
+    "name": "Nakheel Dry Cough Syrup (100 ml)",
+    "name_ar": "شراب السعال الجاف من نخيل (100 مل)",
+    "description": "Soothes dry, tickly coughs. Pack size: 100 ml. Not for children under 6.",
+    "description_ar": "يهدئ السعال الجاف والمزعج. حجم العبوة: 100 مل. غير مناسب للأطفال دون 6 سنة.",
+    "brand": "Nakheel Health",
+    "category": "cold-flu",
+    "price": 1925,
+    "status": 1,
+    "stock": {
+      "dammam": 33,
+      "jeddah": 6,
+      "riyadh": 34
+    },
+    "requires_prescription": false,
+    "active_ingredient": "dextromethorphan",
+    "age_min": 6
+  },
+  {
+    "sku": "COLD-004",
+    "name": "Nakheel Dry Cough Syrup (200 ml)",
+    "name_ar": "شراب السعال الجاف من نخيل (200 مل)",
+    "description": "Soothes dry, tickly coughs. Pack size: 200 ml. Not for children under 6.",
+    "description_ar": "يهدئ السعال الجاف والمزعج. حجم العبوة: 200 مل. غير مناسب للأطفال دون 6 سنة.",
+    "brand": "Nakheel Health",
+    "category": "cold-flu",
+    "price": 3275,
+    "special_price": 2455,
+    "status": 1,
+    "stock": {
+      "dammam": 114,
+      "jeddah": 109,
+      "riyadh": 57
+    },
+    "requires_prescription": false,
+    "active_ingredient": "dextromethorphan",
+    "age_min": 6
+  },
+  {
+    "sku": "COLD-005",
+    "name": "Nakheel Chesty Cough Syrup (100 ml)",
+    "name_ar": "شراب السعال المصحوب بالبلغم من نخيل (100 مل)",
+    "description": "Loosens mucus to relieve chesty coughs. Pack size: 100 ml. Not for children under 6.",
+    "description_ar": "يساعد على تذويب البلغم وتخفيف السعال الصدري. حجم العبوة: 100 مل. غير مناسب للأطفال دون 6 سنة.",
+    "brand": "Nakheel Health",
+    "category": "cold-flu",
+    "price": 1925,
+    "status": 2,
+    "stock": {
+      "dammam": 14,
+      "jeddah": 0,
+      "riyadh": 95
+    },
+    "requires_prescription": false,
+    "active_ingredient": "guaifenesin",
+    "age_min": 6
+  },
+  {
+    "sku": "COLD-006",
+    "name": "Nakheel Chesty Cough Syrup (200 ml)",
+    "name_ar": "شراب السعال المصحوب بالبلغم من نخيل (200 مل)",
+    "description": "Loosens mucus to relieve chesty coughs. Pack size: 200 ml. Not for children under 6.",
+    "description_ar": "يساعد على تذويب البلغم وتخفيف السعال الصدري. حجم العبوة: 200 مل. غير مناسب للأطفال دون 6 سنة.",
+    "brand": "Nakheel Health",
+    "category": "cold-flu",
+    "price": 3275,
+    "special_price": 2950,
+    "status": 1,
+    "stock": {
+      "dammam": 95,
+      "jeddah": 118,
+      "riyadh": 0
+    },
+    "requires_prescription": false,
+    "active_ingredient": "guaifenesin",
+    "age_min": 6
+  },
+  {
+    "sku": "COLD-007",
+    "name": "Nakheel Saline Nasal Spray (30 ml)",
+    "name_ar": "بخاخ أنف بالمحلول الملحي من نخيل (30 مل)",
+    "description": "Gently clears and moisturises the nose. Suitable for daily use. Pack size: 30 ml.",
+    "description_ar": "ينظف الأنف ويرطبه بلطف ومناسب للاستخدام اليومي. حجم العبوة: 30 مل.",
+    "brand": "Nakheel Health",
+    "category": "cold-flu",
+    "price": 1300,
+    "status": 1,
+    "stock": {
+      "dammam": 104,
+      "jeddah": 40,
+      "riyadh": 62
+    },
+    "requires_prescription": false,
+    "active_ingredient": "sodium chloride"
+  },
+  {
+    "sku": "COLD-008",
+    "name": "Nakheel Saline Nasal Spray (100 ml)",
+    "name_ar": "بخاخ أنف بالمحلول الملحي من نخيل (100 مل)",
+    "description": "Gently clears and moisturises the nose. Suitable for daily use. Pack size: 100 ml.",
+    "description_ar": "ينظف الأنف ويرطبه بلطف ومناسب للاستخدام اليومي. حجم العبوة: 100 مل.",
+    "brand": "Nakheel Health",
+    "category": "cold-flu",
+    "price": 2850,
+    "special_price": 2565,
+    "status": 1,
+    "stock": {
+      "dammam": 32,
+      "jeddah": 23,
+      "riyadh": 0
+    },
+    "requires_prescription": false,
+    "active_ingredient": "sodium chloride"
+  },
+  {
+    "sku": "COLD-009",
+    "name": "Nakheel Honey \u0026 Lemon Throat Lozenges (16 lozenges)",
+    "name_ar": "أقراص استحلاب للحلق بالعسل والليمون من نخيل (16 قرص استحلاب)",
+    "description": "Antiseptic lozenges for sore throats. Pack size: 16 lozenges. Not for children under 6.",
+    "description_ar": "أقراص استحلاب مطهرة لالتهاب الحلق. حجم العبوة: 16 قرص استحلاب. غير مناسب للأطفال دون 6 سنة.",
+    "brand": "Nakheel Health",
+    "category": "cold-flu",
+    "price": 1250,
+    "status": 1,
+    "stock": {
+      "dammam": 106,
+      "jeddah": 56,
+      "riyadh": 49
+    },
+    "requires_prescription": false,
+    "active_ingredient": "amylmetacresol, dichlorobenzyl alcohol",
+    "age_min": 6
+  },
+  {
+    "sku": "COLD-010",
+    "name": "Nakheel Honey \u0026 Lemon Throat Lozenges (36 lozenges)",
+    "name_ar": "أقراص استحلاب للحلق بالعسل والليمون من نخيل (36 قرص استحلاب)",
+    "description": "Antiseptic lozenges for sore throats. Pack size: 36 lozenges. Not for children under 6.",
+    "description_ar": "أقراص استحلاب مطهرة لالتهاب الحلق. حجم العبوة: 36 قرص استحلاب. غير مناسب للأطفال دون 6 سنة.",
+    "brand": "Nakheel Health",
+    "category": "cold-flu",
+    "price": 2500,
+    "status": 1,
+    "stock": {
+      "dammam": 114,
+      "jeddah": 101,
+      "riyadh": 8
+    },
+    "requires_prescription": false,
+    "active_ingredient": "amylmetacresol, dichlorobenzyl alcohol",
+    "age_min": 6
+  },
+  {
+    "sku": "COLD-011",
+    "name": "Nakheel Xylometazoline 0.1% Nasal Spray (10 ml)",
+    "name_ar": "بخاخ أنف زايلوميتازولين 0.1٪ من نخيل (10 مل)",
+    "description": "Fast relief from nasal congestion. Do not use for more than 7 days. Pack size: 10 ml. Not for children under 12.",
+    "description_ar": "يخفف احتقان الأنف بسرعة. لا يستخدم لأكثر من 7 أيام. حجم العبوة: 10 مل. غير مناسب للأطفال دون 12 سنة.",
+    "brand": "Nakheel Health",
+    "category": "cold-flu",
+    "price": 1075,
+    "status": 1,
+    "stock": {
+      "dammam": 101,
+      "jeddah": 34,
+      "riyadh": 14
+    },
+    "requires_prescription": false,
+    "active_ingredient": "xylometazoline",
+    "age_min": 12
+  },
+  {
+    "sku": "ALRG-001",
+    "name": "Wahat Cetirizine 10 mg Tablets (10 tablets)",
+    "name_ar": "أقراص سيتريزين 10 ملغ من واحات (10 قرص)",
+    "description": "Once-daily relief from hay fever and allergy symptoms. Pack size: 10 tablets. Not for children under 6.",
+    "description_ar": "قرص واحد يومياً لتخفيف أعراض حساسية الأنف والحساسية الموسمية. حجم العبوة: 10 قرص. غير مناسب للأطفال دون 6 سنة.",
+    "brand": "Wahat Labs",
+    "category": "allergy",
+    "price": 1150,
+    "special_price": 1035,
+    "status": 1,
+    "stock": {
+      "dammam": 60,
+      "jeddah": 92,
+      "riyadh": 110
+    },
+    "requires_prescription": false,
+    "active_ingredient": "cetirizine",
+    "age_min": 6
+  },
+  {
+    "sku": "ALRG-002",
+    "name": "Wahat Cetirizine 10 mg Tablets (30 tablets)",
+    "name_ar": "أقراص سيتريزين 10 ملغ من واحات (30 قرص)",
+    "description": "Once-daily relief from hay fever and allergy symptoms. Pack size: 30 tablets. Not for children under 6.",
+    "description_ar": "قرص واحد يومياً لتخفيف أعراض حساسية الأنف والحساسية الموسمية. حجم العبوة: 30 قرص. غير مناسب للأطفال دون 6 سنة.",
+    "brand": "Wahat Labs",
+    "category": "allergy",
+    "price": 2750,
+    "status": 1,
+    "stock": {
+      "dammam": 92,
+      "jeddah": 105,
+      "riyadh": 45
+    },
+    "requires_prescription": false,
+    "active_ingredient": "cetirizine",
+    "age_min": 6
+  },
+  {
+    "sku": "ALRG-003",
+    "name": "Wahat Loratadine 10 mg Tablets (10 tablets)",
+    "name_ar": "أقراص لوراتادين 10 ملغ من واحات (10 قرص)",
+    "description": "Non-drowsy 24-hour allergy relief. Pack size: 10 tablets. Not for children under 6.",
+    "description_ar": "يخفف أعراض الحساسية لمدة 24 ساعة دون نعاس. حجم العبوة: 10 قرص. غير مناسب للأطفال دون 6 سنة.",
+    "brand": "Wahat Labs",
+    "category": "allergy",
+    "price": 1275,
+    "status": 1,
+    "stock": {
+      "dammam": 82,
+      "jeddah": 102,
+      "riyadh": 97
+    },
+    "requires_prescription": false,
+    "active_ingredient": "loratadine",
+    "age_min": 6
+  },
+  {
+    "sku": "ALRG-004",
+    "name": "Wahat Loratadine 10 mg Tablets (30 tablets)",
+    "name_ar": "أقراص لوراتادين 10 ملغ من واحات (30 قرص)",
+    "description": "Non-drowsy 24-hour allergy relief. Pack size: 30 tablets. Not for children under 6.",
+    "description_ar": "يخفف أعراض الحساسية لمدة 24 ساعة دون نعاس. حجم العبوة: 30 قرص. غير مناسب للأطفال دون 6 سنة.",
+    "brand": "Wahat Labs",
+    "category": "allergy",
+    "price": 3050,
+    "status": 1,
+    "stock": {
+      "dammam": 52,
+      "jeddah": 31,
+      "riyadh": 16
+    },
+    "requires_prescription": false,
+    "active_ingredient": "loratadine",
+    "age_min": 6
+  },
+  {
+    "sku": "ALRG-005",
+    "name": "Wahat Fexofenadine 180 mg Tablets (10 tablets)",
+    "name_ar": "أقراص فيكسوفينادين 180 ملغ من واحات (10 قرص)",
+    "description": "Non-drowsy relief from seasonal allergies and hives. Pack size: 10 tablets. Not for children under 12.",
+    "description_ar": "يخفف الحساسية الموسمية والشرى دون نعاس. حجم العبوة: 10 قرص. غير مناسب للأطفال دون 12 سنة.",
+    "brand": "Wahat Labs",
+    "category": "allergy",
+    "price": 2400,
+    "status": 1,
+    "stock": {
+      "dammam": 104,
+      "jeddah": 96,
+      "riyadh": 72
+    },
+    "requires_prescription": false,
+    "active_ingredient": "fexofenadine",
+    "age_min": 12
+  },
+  {
+    "sku": "ALRG-006",
+    "name": "Wahat Fexofenadine 180 mg Tablets (30 tablets)",
+    "name_ar": "أقراص فيكسوفينادين 180 ملغ من واحات (30 قرص)",
+    "description": "Non-drowsy relief from seasonal allergies and hives. Pack size: 30 tablets. Not for children under 12.",
+    "description_ar": "يخفف الحساسية الموسمية والشرى دون نعاس. حجم العبوة: 30 قرص. غير مناسب للأطفال دون 12 سنة.",
+    "brand": "Wahat Labs",
+    "category": "allergy",
+    "price": 6000,
+    "status": 1,
+    "stock": {
+      "dammam": 98,
+      "jeddah": 30,
+      "riyadh": 108
+    },
+    "requires_prescription": false,
+    "active_ingredient": "fexofenadine",
+    "age_min": 12
+  },
+  {
+    "sku": "ALRG-007",
+    "name": "Wahat Allergy Eye Drops (10 ml)",
+    "name_ar": "قطرة عين للحساسية من واحات (10 مل)",
+    "description": "Relieves itchy, watery eyes caused by allergies. Pack size: 10 ml. Not for children under 6.",
+    "description_ar": "تخفف حكة العين ودموعها الناتجة عن الحساسية. حجم العبوة: 10 مل. غير مناسب للأطفال دون 6 سنة.",
+    "brand": "Wahat Labs",
+    "category": "allergy",
+    "price": 1750,
+    "status": 1,
+    "stock": {
+      "dammam": 53,
+      "jeddah": 32,
+      "riyadh": 104
+    },
+    "requires_prescription": false,
+    "active_ingredient": "sodium cromoglicate",
+    "age_min": 6
+  },
+  {
+    "sku": "DIGE-001",
+    "name": "Marjan Antacid Chewable Tablets (24 tablets)",
+    "name_ar": "أقراص مضغ مضادة للحموضة من مرجان (24 قرص)",
+    "description": "Fast relief from heartburn and indigestion. Mint flavour. Pack size: 24 tablets. Not for children under 12.",
+    "description_ar": "تخفيف سريع لحرقة المعدة وعسر الهضم بنكهة النعناع. حجم العبوة: 24 قرص. غير مناسب للأطفال دون 12 سنة.",
+    "brand": "Marjan Care",
+    "category": "digestive",
+    "price": 900,
+    "status": 1,
+    "stock": {
+      "dammam": 8,
+      "jeddah": 79,
+      "riyadh": 46
+    },
+    "requires_prescription": false,
+    "active_ingredient": "calcium carbonate",
+    "age_min": 12
+  },
+  {
+    "sku": "DIGE-002",
+    "name": "Marjan Antacid Chewable Tablets (48 tablets)",
+    "name_ar": "أقراص مضغ مضادة للحموضة من مرجان (48 قرص)",
+    "description": "Fast relief from heartburn and indigestion. Mint flavour. Pack size: 48 tablets. Not for children under 12.",
+    "description_ar": "تخفيف سريع لحرقة المعدة وعسر الهضم بنكهة النعناع. حجم العبوة: 48 قرص. غير مناسب للأطفال دون 12 سنة.",
+    "brand": "Marjan Care",
+    "category": "digestive",
+    "price": 1625,
+    "special_price": 1465,
+    "status": 1,
+    "stock": {
+      "dammam": 49,
+      "jeddah": 17,
+      "riyadh": 104
+    },
+    "requires_prescription": false,
+    "active_ingredient": "calcium carbonate",
+    "age_min": 12
+  },
+  {
+    "sku": "DIGE-003",
+    "name": "Marjan Omeprazole 20 mg Capsules (14 capsules)",
+    "name_ar": "كبسولات أوميبرازول 20 ملغ من مرجان (14 كبسولة)",
+    "description": "Reduces stomach acid for frequent heartburn. Pack size: 14 capsules. Not for children under 18.",
+    "description_ar": "يقلل حمض المعدة لعلاج الحرقة المتكررة. حجم العبوة: 14 كبسولة. غير مناسب للأطفال دون 18 سنة.",
+    "brand": "Marjan Care",
+    "category": "digestive",
+    "price": 2250,
+    "status": 1,
+    "stock": {
+      "dammam": 7,
+      "jeddah": 50,
+      "riyadh": 91
+    },
+    "requires_prescription": false,
+    "active_ingredient": "omeprazole",
+    "age_min": 18
+  },
+  {
+    "sku": "DIGE-004",
+    "name": "Marjan Omeprazole 20 mg Capsules (28 capsules)",
+    "name_ar": "كبسولات أوميبرازول 20 ملغ من مرجان (28 كبسولة)",
+    "description": "Reduces stomach acid for frequent heartburn. Pack size: 28 capsules. Not for children under 18.",
+    "description_ar": "يقلل حمض المعدة لعلاج الحرقة المتكررة. حجم العبوة: 28 كبسولة. غير مناسب للأطفال دون 18 سنة.",
+    "brand": "Marjan Care",
+    "category": "digestive",
+    "price": 4050,
+    "status": 1,
+    "stock": {
+      "dammam": 101,
+      "jeddah": 85,
+      "riyadh": 118
+    },
+    "requires_prescription": false,
+    "active_ingredient": "omeprazole",
+    "age_min": 18
+  },
+  {
+    "sku": "DIGE-005",
+    "name": "Marjan Oral Rehydration Salts (6 sachets)",
+    "name_ar": "أملاح الإرواء الفموي من مرجان (6 كيس)",
+    "description": "Replaces fluids and minerals lost through diarrhoea or heat. Pack size: 6 sachets.",
+    "description_ar": "يعوض السوائل والأملاح المفقودة بسبب الإسهال أو الحر. حجم العبوة: 6 كيس.",
+    "brand": "Marjan Care",
+    "category": "digestive",
+    "price": 825,
+    "status": 1,
+    "stock": {
+      "dammam": 41,
+      "jeddah": 55,
+      "riyadh": 26
+    },
+    "requires_prescription": false,
+    "active_ingredient": "sodium chloride, glucose, potassium chloride"
+  },
+  {
+    "sku": "DIGE-006",
+    "name": "Marjan Oral Rehydration Salts (20 sachets)",
+    "name_ar": "أملاح الإرواء الفموي من مرجان (20 كيس)",
+    "description": "Replaces fluids and minerals lost through diarrhoea or heat. Pack size: 20 sachets.",
+    "description_ar": "يعوض السوائل والأملاح المفقودة بسبب الإسهال أو الحر. حجم العبوة: 20 كيس.",
+    "brand": "Marjan Care",
+    "category": "digestive",
+    "price": 2475,
+    "status": 1,
+    "stock": {
+      "dammam": 76,
+      "jeddah": 39,
+      "riyadh": 79
+    },
+    "requires_prescription": false,
+    "active_ingredient": "sodium chloride, glucose, potassium chloride"
+  },
+  {
+    "sku": "DIGE-007",
+    "name": "Marjan Loperamide 2 mg Capsules (6 capsules)",
+    "name_ar": "كبسولات لوبيراميد 2 ملغ من مرجان (6 كبسولة)",
+    "description": "Fast relief from short-term diarrhoea. Pack size: 6 capsules. Not for children under 12.",
+    "description_ar": "يوقف الإسهال المؤقت بسرعة. حجم العبوة: 6 كبسولة. غير مناسب للأطفال دون 12 سنة.",
+    "brand": "Marjan Care",
+    "category": "digestive",
+    "price": 1050,
+    "status": 1,
+    "stock": {
+      "dammam": 115,
+      "jeddah": 90,
+      "riyadh": 68
+    },
+    "requires_prescription": false,
+    "active_ingredient": "loperamide",
+    "age_min": 12
+  },
+  {
+    "sku": "DIGE-008",
+    "name": "Marjan Loperamide 2 mg Capsules (12 capsules)",
+    "name_ar": "كبسولات لوبيراميد 2 ملغ من مرجان (12 كبسولة)",
+    "description": "Fast relief from short-term diarrhoea. Pack size: 12 capsules. Not for children under 12.",
+    "description_ar": "يوقف الإسهال المؤقت بسرعة. حجم العبوة: 12 كبسولة. غير مناسب للأطفال دون 12 سنة.",
+    "brand": "Marjan Care",
+    "category": "digestive",
+    "price": 1775,
+    "special_price": 1420,
+    "status": 1,
+    "stock": {
+      "dammam": 59,
+      "jeddah": 15,
+      "riyadh": 83
+    },
+    "requires_prescription": false,
+    "active_ingredient": "loperamide",
+    "age_min": 12
+  },
+  {
+    "sku": "DIGE-009",
+    "name": "Marjan Probiotic Daily Capsules (30 capsules)",
+    "name_ar": "كبسولات بروبيوتيك يومية من مرجان (30 كبسولة)",
+    "description": "Supports healthy digestion and gut flora. Pack size: 30 capsules. Not for children under 3.",
+    "description_ar": "يدعم الهضم الصحي وتوازن بكتيريا الأمعاء. حجم العبوة: 30 كبسولة. غير مناسب للأطفال دون 3 سنة.",
+    "brand": "Marjan Care",
+    "category": "digestive",
+    "price": 5400,
+    "status": 1,
+    "stock": {
+      "dammam": 69,
+      "jeddah": 43,
+      "riyadh": 115
+    },
+    "requires_prescription": false,
+    "active_ingredient": "lactobacillus rhamnosus",
+    "age_min": 3
+  },
+  {
+    "sku": "DIGE-010",
+    "name": "Marjan Probiotic Daily Capsules (60 capsules)",
+    "name_ar": "كبسولات بروبيوتيك يومية من مرجان (60 كبسولة)",
+    "description": "Supports healthy digestion and gut flora. Pack size: 60 capsules. Not for children under 3.",
+    "description_ar": "يدعم الهضم الصحي وتوازن بكتيريا الأمعاء. حجم العبوة: 60 كبسولة. غير مناسب للأطفال دون 3 سنة.",
+    "brand": "Marjan Care",
+    "category": "digestive",
+    "price": 9725,
+    "status": 1,
+    "stock": {
+      "dammam": 101,
+      "jeddah": 85,
+      "riyadh": 65
+    },
+    "requires_prescription": false,
+    "active_ingredient": "lactobacillus rhamnosus",
+    "age_min": 3
+  },
+  {
+    "sku": "DIGE-011",
+    "name": "Marjan Lactulose Oral Solution (200 ml)",
+    "name_ar": "محلول لاكتولوز فموي من مرجان (200 مل)",
+    "description": "Gentle relief from constipation. Pack size: 200 ml. Not for children under 1.",
+    "description_ar": "يخفف الإمساك بلطف. حجم العبوة: 200 مل. غير مناسب للأطفال دون 1 سنة.",
+    "brand": "Marjan Care",
+    "category": "digestive",
+    "price": 2375,
+    "status": 1,
+    "stock": {
+      "dammam": 70,
+      "jeddah": 31,
+      "riyadh": 47
+    },
+    "requires_prescription": false,
+    "active_ingredient": "lactulose",
+    "age_min": 1
+  },
+  {
+    "sku": "DIGE-012",
+    "name": "Marjan Lactulose Oral Solution (300 ml)",
+    "name_ar": "محلول لاكتولوز فموي من مرجان (300 مل)",
+    "description": "Gentle relief from constipation. Pack size: 300 ml. Not for children under 1.",
+    "description_ar": "يخفف الإمساك بلطف. حجم العبوة: 300 مل. غير مناسب للأطفال دون 1 سنة.",
+    "brand": "Marjan Care",
+    "category": "digestive",
+    "price": 3325,
+    "status": 1,
+    "stock": {
+      "dammam": 14,
+      "jeddah": 112,
+      "riyadh": 39
+    },
+    "requires_prescription": false,
+    "active_ingredient": "lactulose",
+    "age_min": 1
+  },
+  {
+    "sku": "VITA-001",
+    "name": "Barq Vitamin D3 1000 IU Softgels (60 softgels)",
+    "name_ar": "كبسولات فيتامين د3 1000 وحدة دولية من برق (60 كبسولة جيلاتينية)",
+    "description": "Supports healthy bones, teeth and immunity. Pack size: 60 softgels. Not for children under 12.",
+    "description_ar": "يدعم صحة العظام والأسنان والمناعة. حجم العبوة: 60 كبسولة جيلاتينية. غير مناسب للأطفال دون 12 سنة.",
+    "brand": "Barq Nutrition",
+    "category": "vitamins",
+    "price": 2900,
+    "special_price": 1995,
+    "special_from_date": "2026-01-01T00:00:00Z",
+    "special_to_date": "2026-02-01T00:00:00Z",
+    "status": 1,
+    "stock": {
+      "dammam": 21,
+      "jeddah": 118,
+      "riyadh": 0
+    },
+    "requires_prescription": false,
+    "active_ingredient": "cholecalciferol",
+    "age_min": 12
+  },
+  {
+    "sku": "VITA-002",
+    "name": "Barq Vitamin D3 1000 IU Softgels (120 softgels)",
+    "name_ar": "كبسولات فيتامين د3 1000 وحدة دولية من برق (120 كبسولة جيلاتينية)",
+    "description": "Supports healthy bones, teeth and immunity. Pack size: 120 softgels. Not for children under 12.",
+    "description_ar": "يدعم صحة العظام والأسنان والمناعة. حجم العبوة: 120 كبسولة جيلاتينية. غير مناسب للأطفال دون 12 سنة.",
+    "brand": "Barq Nutrition",
+    "category": "vitamins",
+    "price": 5075,
+    "status": 1,
+    "stock": {
+      "dammam": 61,
+      "jeddah": 50,
+      "riyadh": 117
+    },
+    "requires_prescription": false,
+    "active_ingredient": "cholecalciferol",
+    "age_min": 12
+  },
+  {
+    "sku": "VITA-003",
+    "name": "Barq Vitamin C 1000 mg Effervescent (10 effervescent tablets)",
+    "name_ar": "أقراص فوارة فيتامين سي 1000 ملغ من برق (10 قرص فوار)",
+    "description": "Orange-flavoured immune support. Pack size: 10 effervescent tablets. Not for children under 12.",
+    "description_ar": "دعم للمناعة بنكهة البرتقال. حجم العبوة: 10 قرص فوار. غير مناسب للأطفال دون 12 سنة.",
+    "brand": "Barq Nutrition",
+    "category": "vitamins",
+    "price": 1550,
+    "special_price": 1395,
+    "status": 1,
+    "stock": {
+      "dammam": 7,
+      "jeddah": 21,
+      "riyadh": 90
+    },
+    "requires_prescription": false,
+    "active_ingredient": "ascorbic acid",
+    "age_min": 12
+  },
+  {
+    "sku": "VITA-004",
+    "name": "Barq Vitamin C 1000 mg Effervescent (20 effervescent tablets)",
+    "name_ar": "أقراص فوارة فيتامين سي 1000 ملغ من برق (20 قرص فوار)",
+    "description": "Orange-flavoured immune support. Pack size: 20 effervescent tablets. Not for children under 12.",
+    "description_ar": "دعم للمناعة بنكهة البرتقال. حجم العبوة: 20 قرص فوار. غير مناسب للأطفال دون 12 سنة.",
+    "brand": "Barq Nutrition",
+    "category": "vitamins",
+    "price": 2800,
+    "status": 1,
+    "stock": {
+      "dammam": 66,
+      "jeddah": 30,
+      "riyadh": 6
+    },
+    "requires_prescription": false,
+    "active_ingredient": "ascorbic acid",
+    "age_min": 12
+  },
+  {
+    "sku": "VITA-005",
+    "name": "Barq Women's Multivitamin (30 tablets)",
+    "name_ar": "فيتامينات متعددة للنساء من برق (30 قرص)",
+    "description": "Daily vitamins and minerals formulated for women. Pack size: 30 tablets. Not for children under 18.",
+    "description_ar": "فيتامينات ومعادن يومية مخصصة للنساء. حجم العبوة: 30 قرص. غير مناسب للأطفال دون 18 سنة.",
+    "brand": "Barq Nutrition",
+    "category": "vitamins",
+    "price": 6200,
+    "status": 1,
+    "stock": {
+      "dammam": 60,
+      "jeddah": 31,
+      "riyadh": 34
+    },
+    "requires_prescription": false,
+    "active_ingredient": "multivitamin, iron, folic acid",
+    "age_min": 18
+  },
+  {
+    "sku": "VITA-006",
+    "name": "Barq Women's Multivitamin (90 tablets)",
+    "name_ar": "فيتامينات متعددة للنساء من برق (90 قرص)",
+    "description": "Daily vitamins and minerals formulated for women. Pack size: 90 tablets. Not for children under 18.",
+    "description_ar": "فيتامينات ومعادن يومية مخصصة للنساء. حجم العبوة: 90 قرص. غير مناسب للأطفال دون 18 سنة.",
+    "brand": "Barq Nutrition",
+    "category": "vitamins",
+    "price": 16125,
+    "special_price": 12095,
+    "status": 1,
+    "stock": {
+      "dammam": 0,
+      "jeddah": 13,
+      "riyadh": 106
+    },
+    "requires_prescription": false,
+    "active_ingredient": "multivitamin, iron, folic acid",
+    "age_min": 18
+  },
+  {
+    "sku": "VITA-007",
+    "name": "Barq Men's Multivitamin (30 tablets)",
+    "name_ar": "فيتامينات متعددة للرجال من برق (30 قرص)",
+    "description": "Daily vitamins and minerals formulated for men. Pack size: 30 tablets. Not for children under 18.",
+    "description_ar": "فيتامينات ومعادن يومية مخصصة للرجال. حجم العبوة: 30 قرص. غير مناسب للأطفال دون 18 سنة.",
+    "brand": "Barq Nutrition",
+    "category": "vitamins",
+    "price": 6200,
+    "special_price": 4650,
+    "status": 1,
+    "stock": {
+      "dammam": 48,
+      "jeddah": 28,
+      "riyadh": 41
+    },
+    "requires_prescription": false,
+    "active_ingredient": "multivitamin, zinc",
+    "age_min": 18
+  },
+  {
+    "sku": "VITA-008",
+    "name": "Barq Men's Multivitamin (90 tablets)",
+    "name_ar": "فيتامينات متعددة للرجال من برق (90 قرص)",
+    "description": "Daily vitamins and minerals formulated for men. Pack size: 90 tablets. Not for children under 18.",
+    "description_ar": "فيتامينات ومعادن يومية مخصصة للرجال. حجم العبوة: 90 قرص. غير مناسب للأطفال دون 18 سنة.",
+    "brand": "Barq Nutrition",
+    "category": "vitamins",
+    "price": 16125,
+    "status": 1,
+    "stock": {
+      "dammam": 0,
+      "jeddah": 97,
+      "riyadh": 43
+    },
+    "requires_prescription": false,
+    "active_ingredient": "multivitamin, zinc",
+    "age_min": 18
+  },
+  {
+    "sku": "VITA-009",
+    "name": "Barq Kids Multivitamin Gummies (30 gummies)",
+    "name_ar": "حلوى فيتامينات متعددة للأطفال من برق (30 حلوى)",
+    "description": "Fruit-flavoured daily vitamins for children. Pack size: 30 gummies. Not for children under 3.",
+    "description_ar": "فيتامينات يومية للأطفال بنكهة الفواكه. حجم العبوة: 30 حلوى. غير مناسب للأطفال دون 3 سنة.",
+    "brand": "Barq Nutrition",
+    "category": "vitamins",
+    "price": 4500,
+    "status": 1,
+    "stock": {
+      "dammam": 104,
+      "jeddah": 83,
+      "riyadh": 39
+    },
+    "requires_prescription": false,
+    "active_ingredient": "multivitamin",
+    "age_min": 3
+  },
+  {
+    "sku": "VITA-010",
+    "name": "Barq Kids Multivitamin Gummies (60 gummies)",
+    "name_ar": "حلوى فيتامينات متعددة للأطفال من برق (60 حلوى)",
+    "description": "Fruit-flavoured daily vitamins for children. Pack size: 60 gummies. Not for children under 3.",
+    "description_ar": "فيتامينات يومية للأطفال بنكهة الفواكه. حجم العبوة: 60 حلوى. غير مناسب للأطفال دون 3 سنة.",
+    "brand": "Barq Nutrition",
+    "category": "vitamins",
+    "price": 8100,
+    "status": 1,
+    "stock": {
+      "dammam": 0,
+      "jeddah": 89,
+      "riyadh": 108
+    },
+    "requires_prescription": false,
+    "active_ingredient": "multivitamin",
+    "age_min": 3
+  },
+  {
+    "sku": "VITA-011",
+    "name": "Barq Omega-3 Fish Oil 1000 mg (60 softgels)",
+    "name_ar": "زيت السمك أوميغا 3 1000 ملغ من برق (60 كبسولة جيلاتينية)",
+    "description": "Supports heart, brain and eye health. Pack size: 60 softgels. Not for children under 12.",
+    "description_ar": "يدعم صحة القلب والدماغ والعينين. حجم العبوة: 60 كبسولة جيلاتينية. غير مناسب للأطفال دون 12 سنة.",
+    "brand": "Barq Nutrition",
+    "category": "vitamins",
+    "price": 4950,
+    "special_price": 3960,
+    "status": 1,
+    "stock": {
+      "dammam": 73,
+      "jeddah": 69,
+      "riyadh": 48
+    },
+    "requires_prescription": false,
+    "active_ingredient": "EPA, DHA",
+    "age_min": 12
+  },
+  {
+    "sku": "VITA-012",
+    "name": "Barq Omega-3 Fish Oil 1000 mg (120 softgels)",
+    "name_ar": "زيت السمك أوميغا 3 1000 ملغ من برق (120 كبسولة جيلاتينية)",
+    "description": "Supports heart, brain and eye health. Pack size: 120 softgels. Not for children under 12.",
+    "description_ar": "يدعم صحة القلب والدماغ والعينين. حجم العبوة: 120 كبسولة جيلاتينية. غير مناسب للأطفال دون 12 سنة.",
+    "brand": "Barq Nutrition",
+    "category": "vitamins",
+    "price": 8900,
+    "status": 1,
+    "stock": {
+      "dammam": 48,
+      "jeddah": 119,
+      "riyadh": 76
+    },
+    "requires_prescription": false,
+    "active_ingredient": "EPA, DHA",
+    "age_min": 12
+  },
+  {
+    "sku": "VITA-013",
+    "name": "Barq Iron \u0026 Folic Acid Tablets (30 tablets)",
+    "name_ar": "أقراص الحديد وحمض الفوليك من برق (30 قرص)",
+    "description": "Helps reduce tiredness and supports healthy blood. Pack size: 30 tablets. Not for children under 18.",
+    "description_ar": "يساعد على تقليل التعب ويدعم صحة الدم. حجم العبوة: 30 قرص. غير مناسب للأطفال دون 18 سنة.",
+    "brand": "Barq Nutrition",
+    "category": "vitamins",
+    "price": 2600,
+    "status": 2,
+    "stock": {
+      "dammam": 7,
+      "jeddah": 0,
+      "riyadh": 93
+    },
+    "requires_prescription": false,
+    "active_ingredient": "ferrous fumarate, folic acid",
+    "age_min": 18
+  },
+  {
+    "sku": "VITA-014",
+    "name": "Barq Iron \u0026 Folic Acid Tablets (60 tablets)",
+    "name_ar": "أقراص الحديد وحمض الفوليك من برق (60 قرص)",
+    "description": "Helps reduce tiredness and supports healthy blood. Pack size: 60 tablets. Not for children under 18.",
+    "description_ar": "يساعد على تقليل التعب ويدعم صحة الدم. حجم العبوة: 60 قرص. غير مناسب للأطفال دون 18 سنة.",
+    "brand": "Barq Nutrition",
+    "category": "vitamins",
+    "price": 4675,
+    "status": 1,
+    "stock": {
+      "dammam": 19,
+      "jeddah": 0,
+      "riyadh": 10
+    },
+    "requires_prescription": false,
+    "active_ingredient": "ferrous fumarate, folic acid",
+    "age_min": 18
+  },
+  {
+    "sku": "VITA-015",
+    "name": "Barq Zinc 25 mg Tablets (60 tablets)",
+    "name_ar": "أقراص زنك 25 ملغ من برق (60 قرص)",
+    "description": "Supports immunity and healthy skin. Pack size: 60 tablets. Not for children under 12.",
+    "description_ar": "يدعم المناعة وصحة البشرة. حجم العبوة: 60 قرص. غير مناسب للأطفال دون 12 سنة.",
+    "brand": "Barq Nutrition",
+    "category": "vitamins",
+    "price": 2450,
+    "special_price": 1840,
+    "status": 1,
+    "stock": {
+      "dammam": 31,
+      "jeddah": 90,
+      "riyadh": 51
+    },
+    "requires_prescription": false,
+    "active_ingredient": "zinc gluconate",
+    "age_min": 12
+  },
+  {
+    "sku": "VITA-016",
+    "name": "Barq Zinc 25 mg Tablets (120 tablets)",
+    "name_ar": "أقراص زنك 25 ملغ من برق (120 قرص)",
+    "description": "Supports immunity and healthy skin. Pack size: 120 tablets. Not for children under 12.",
+    "description_ar": "يدعم المناعة وصحة البشرة. حجم العبوة: 120 قرص. غير مناسب للأطفال دون 12 سنة.",
+    "brand": "Barq Nutrition",
+    "category": "vitamins",
+    "price": 4400,
+    "status": 1,
+    "stock": {
+      "dammam": 16,
+      "jeddah": 91,
+      "riyadh": 97
+    },
+    "requires_prescription": false,
+    "active_ingredient": "zinc gluconate",
+    "age_min": 12
+  },
+  {
+    "sku": "VITA-017",
+    "name": "Barq Magnesium 400 mg Tablets (60 tablets)",
+    "name_ar": "أقراص مغنيسيوم 400 ملغ من برق (60 قرص)",
+    "description": "Supports muscles, nerves and restful sleep. Pack size: 60 tablets. Not for children under 18.",
+    "description_ar": "يدعم العضلات والأعصاب والنوم المريح. حجم العبوة: 60 قرص. غير مناسب للأطفال دون 18 سنة.",
+    "brand": "Barq Nutrition",
+    "category": "vitamins",
+    "price": 3800,
+    "special_price": 3420,
+    "status": 1,
+    "stock": {
+      "dammam": 13,
+      "jeddah": 39,
+      "riyadh": 21
+    },
+    "requires_prescription": false,
+    "active_ingredient": "magnesium citrate",
+    "age_min": 18
+  },
+  {
+    "sku": "VITA-018",
+    "name": "Barq Magnesium 400 mg Tablets (120 tablets)",
+    "name_ar": "أقراص مغنيسيوم 400 ملغ من برق (120 قرص)",
+    "description": "Supports muscles, nerves and restful sleep. Pack size: 120 tablets. Not for children under 18.",
+    "description_ar": "يدعم العضلات والأعصاب والنوم المريح. حجم العبوة: 120 قرص. غير مناسب للأطفال دون 18 سنة.",
+    "brand": "Barq Nutrition",
+    "category": "vitamins",
+    "price": 6850,
+    "status": 1,
+    "stock": {
+      "dammam": 0,
+      "jeddah": 81,
+      "riyadh": 86
+    },
+    "requires_prescription": false,
+    "active_ingredient": "magnesium citrate",
+    "age_min": 18
+  },
+  {
+    "sku": "VITA-019",
+    "name": "Barq Biotin 5000 mcg Tablets (60 tablets)",
+    "name_ar": "أقراص بيوتين 5000 ميكروغرام من برق (60 قرص)",
+    "description": "Supports healthy hair, skin and nails. Pack size: 60 tablets. Not for children under 18.",
+    "description_ar": "يدعم صحة الشعر والبشرة والأظافر. حجم العبوة: 60 قرص. غير مناسب للأطفال دون 18 سنة.",
+    "brand": "Barq Nutrition",
+    "category": "vitamins",
+    "price": 4200,
+    "status": 1,
+    "stock": {
+      "dammam": 0,
+      "jeddah": 55,
+      "riyadh": 0
+    },
+    "requires_prescription": false,
+    "active_ingredient": "biotin",
+    "age_min": 18
+  },
+  {
+    "sku": "VITA-020",
+    "name": "Barq Biotin 5000 mcg Tablets (120 tablets)",
+    "name_ar": "أقراص بيوتين 5000 ميكروغرام من برق (120 قرص)",
+    "description": "Supports healthy hair, skin and nails. Pack size: 120 tablets. Not for children under 18.",
+    "description_ar": "يدعم صحة الشعر والبشرة والأظافر. حجم العبوة: 120 قرص. غير مناسب للأطفال دون 18 سنة.",
+    "brand": "Barq Nutrition",
+    "category": "vitamins",
+    "price": 7550,
+    "status": 1,
+    "stock": {
+      "dammam": 74,
+      "jeddah": 95,
+      "riyadh": 27
+    },
+    "requires_prescription": false,
+    "active_ingredient": "biotin",
+    "age_min": 18
+  },
+  {
+    "sku": "SKIN-001",
+    "name": "Yasmin Intensive Moisturising Cream (100 ml)",
+    "name_ar": "كريم مرطب مكثف من ياسمين (100 مل)",
+    "description": "Fragrance-free cream for very dry skin. Pack size: 100 ml. Not for children under 3.",
+    "description_ar": "كريم خالٍ من العطور للبشرة شديدة الجفاف. حجم العبوة: 100 مل. غير مناسب للأطفال دون 3 سنة.",
+    "brand": "Yasmin Derma",
+    "category": "skin-care",
+    "price": 3400,
+    "special_price": 2550,
+    "status": 1,
+    "stock": {
+      "dammam": 8,
+      "jeddah": 47,
+      "riyadh": 0
+    },
+    "requires_prescription": false,
+    "active_ingredient": "glycerin, urea",
+    "age_min": 3
+  },
+  {
+    "sku": "SKIN-002",
+    "name": "Yasmin Intensive Moisturising Cream (250 ml)",
+    "name_ar": "كريم مرطب مكثف من ياسمين (250 مل)",
+    "description": "Fragrance-free cream for very dry skin. Pack size: 250 ml. Not for children under 3.",
+    "description_ar": "كريم خالٍ من العطور للبشرة شديدة الجفاف. حجم العبوة: 250 مل. غير مناسب للأطفال دون 3 سنة.",
+    "brand": "Yasmin Derma",
+    "category": "skin-care",
+    "price": 7150,
+    "status": 1,
+    "stock": {
+      "dammam": 0,
+      "jeddah": 29,
+      "riyadh": 44
+    },
+    "requires_prescription": false,
+    "active_ingredient": "glycerin, urea",
+    "age_min": 3
+  },
+  {
+    "sku": "SKIN-003",
+    "name": "Yasmin Sunscreen SPF 50+ (50 ml)",
+    "name_ar": "واقي شمس SPF 50+ من ياسمين (50 مل)",
+    "description": "High protection, water-resistant, light texture. Pack size: 50 ml. Not for children under 3.",
+    "description_ar": "حماية عالية ومقاوم للماء بقوام خفيف. حجم العبوة: 50 مل. غير مناسب للأطفال دون 3 سنة.",
+    "brand": "Yasmin Derma",
+    "category": "skin-care",
+    "price": 6900,
+    "special_price": 4900,
+    "special_from_date": "2027-06-01T00:00:00Z",
+    "status": 1,
+    "stock": {
+      "dammam": 84,
+      "jeddah": 89,
+      "riyadh": 98
+    },
+    "requires_prescription": false,
+    "active_ingredient": "zinc oxide, titanium dioxide",
+    "age_min": 3
+  },
+  {
+    "sku": "SKIN-004",
+    "name": "Yasmin Sunscreen SPF 50+ (100 ml)",
+    "name_ar": "واقي شمس SPF 50+ من ياسمين (100 مل)",
+    "description": "High protection, water-resistant, light texture. Pack size: 100 ml. Not for children under 3.",
+    "description_ar": "حماية عالية ومقاوم للماء بقوام خفيف. حجم العبوة: 100 مل. غير مناسب للأطفال دون 3 سنة.",
+    "brand": "Yasmin Derma",
+    "category": "skin-care",
+    "price": 11725,
+    "status": 1,
+    "stock": {
+      "dammam": 106,
+      "jeddah": 28,
+      "riyadh": 96
+    },
+    "requires_prescription": false,
+    "active_ingredient": "zinc oxide, titanium dioxide",
+    "age_min": 3
+  },
+  {
+    "sku": "SKIN-005",
+    "name": "Yasmin Hydrocortisone 1% Cream (15 g)",
+    "name_ar": "كريم هيدروكورتيزون 1٪ من ياسمين (15 غ)",
+    "description": "Relieves itching, insect bites and mild eczema. Pack size: 15 g. Not for children under 10.",
+    "description_ar": "يخفف الحكة ولدغات الحشرات والإكزيما الخفيفة. حجم العبوة: 15 غ. غير مناسب للأطفال دون 10 سنة.",
+    "brand": "Yasmin Derma",
+    "category": "skin-care",
+    "price": 1425,
+    "status": 1,
+    "stock": {
+      "dammam": 46,
+      "jeddah": 7,
+      "riyadh": 105
+    },
+    "requires_prescription": false,
+    "active_ingredient": "hydrocortisone",
+    "age_min": 10
+  },
+  {
+    "sku": "SKIN-006",
+    "name": "Yasmin Hydrocortisone 1% Cream (30 g)",
+    "name_ar": "كريم هيدروكورتيزون 1٪ من ياسمين (30 غ)",
+    "description": "Relieves itching, insect bites and mild eczema. Pack size: 30 g. Not for children under 10.",
+    "description_ar": "يخفف الحكة ولدغات الحشرات والإكزيما الخفيفة. حجم العبوة: 30 غ. غير مناسب للأطفال دون 10 سنة.",
+    "brand": "Yasmin Derma",
+    "category": "skin-care",
+    "price": 2425,
+    "status": 1,
+    "stock": {
+      "dammam": 103,
+      "jeddah": 41,
+      "riyadh": 0
+    },
+    "requires_prescription": false,
+    "active_ingredient": "hydrocortisone",
+    "age_min": 10
+  },
+  {
+    "sku": "SKIN-007",
+    "name": "Yasmin Benzoyl Peroxide 5% Acne Gel (40 g)",
+    "name_ar": "جل حب الشباب بنزويل بيروكسايد 5٪ من ياسمين (40 غ)",
+    "description": "Treats and helps prevent spots. Pack size: 40 g. Not for children under 12.",
+    "description_ar": "يعالج حب الشباب ويساعد على الوقاية منه. حجم العبوة: 40 غ. غير مناسب للأطفال دون 12 سنة.",
+    "brand": "Yasmin Derma",
+    "category": "skin-care",
+    "price": 2750,
+    "status": 1,
+    "stock": {
+      "dammam": 0,
+      "jeddah": 66,
+      "riyadh": 0
+    },
+    "requires_prescription": false,
+    "active_ingredient": "benzoyl peroxide",
+    "age_min": 12
+  },
+  {
+    "sku": "SKIN-008",
+    "name": "Yasmin Clotrimazole 1% Cream (20 g)",
+    "name_ar": "كريم كلوتريمازول 1٪ من ياسمين (20 غ)",
+    "description": "Treats fungal skin infections such as athlete's foot. Pack size: 20 g. Not for children under 2.",
+    "description_ar": "يعالج الالتهابات الفطرية الجلدية مثل قدم الرياضي. حجم العبوة: 20 غ. غير مناسب للأطفال دون 2 سنة.",
+    "brand": "Yasmin Derma",
+    "category": "skin-care",
+    "price": 1200,
+    "status": 1,
+    "stock": {
+      "dammam": 91,
+      "jeddah": 0,
+      "riyadh": 57
+    },
+    "requires_prescription": false,
+    "active_ingredient": "clotrimazole",
+    "age_min": 2
+  },
+  {
+    "sku": "SKIN-009",
+    "name": "Yasmin Micellar Cleansing Water (250 ml)",
+    "name_ar": "ماء ميسيلار منظف من ياسمين (250 مل)",
+    "description": "Removes make-up and impurities without rinsing. Pack size: 250 ml. Not for children under 12.",
+    "description_ar": "يزيل المكياج والشوائب دون الحاجة إلى الشطف. حجم العبوة: 250 مل. غير مناسب للأطفال دون 12 سنة.",
+    "brand": "Yasmin Derma",
+    "category": "skin-care",
+    "price": 3900,
+    "status": 1,
+    "stock": {
+      "dammam": 32,
+      "jeddah": 0,
+      "riyadh": 37
+    },
+    "requires_prescription": false,
+    "age_min": 12
+  },
+  {
+    "sku": "SKIN-010",
+    "name": "Yasmin Micellar Cleansing Water (400 ml)",
+    "name_ar": "ماء ميسيلار منظف من ياسمين (400 مل)",
+    "description": "Removes make-up and impurities without rinsing. Pack size: 400 ml. Not for children under 12.",
+    "description_ar": "يزيل المكياج والشوائب دون الحاجة إلى الشطف. حجم العبوة: 400 مل. غير مناسب للأطفال دون 12 سنة.",
+    "brand": "Yasmin Derma",
+    "category": "skin-care",
+    "price": 5450,
+    "status": 2,
+    "stock": {
+      "dammam": 5,
+      "jeddah": 28,
+      "riyadh": 29
+    },
+    "requires_prescription": false,
+    "age_min": 12
+  },
+  {
+    "sku": "BABY-001",
+    "name": "Ghaim Nappy Rash Cream (50 g)",
+    "name_ar": "كريم التسلخات للأطفال من غيم (50 غ)",
+    "description": "Soothes and protects against nappy rash. Pack size: 50 g.",
+    "description_ar": "يهدئ التسلخات ويحمي منها. حجم العبوة: 50 غ.",
+    "brand": "Ghaim Baby",
+    "category": "baby-care",
+    "price": 2200,
+    "special_price": 1870,
+    "status": 1,
+    "stock": {
+      "dammam": 12,
+      "jeddah": 48,
+      "riyadh": 84
+    },
+    "requires_prescription": false,
+    "active_ingredient": "zinc oxide"
+  },
+  {
+    "sku": "BABY-002",
+    "name": "Ghaim Nappy Rash Cream (100 g)",
+    "name_ar": "كريم التسلخات للأطفال من غيم (100 غ)",
+    "description": "Soothes and protects against nappy rash. Pack size: 100 g.",
+    "description_ar": "يهدئ التسلخات ويحمي منها. حجم العبوة: 100 غ.",
+    "brand": "Ghaim Baby",
+    "category": "baby-care",
+    "price": 3750,
+    "special_price": 2815,
+    "status": 1,
+    "stock": {
+      "dammam": 13,
+      "jeddah": 38,
+      "riyadh": 74
+    },
+    "requires_prescription": false,
+    "active_ingredient": "zinc oxide"
+  },
+  {
+    "sku": "BABY-003",
+    "name": "Ghaim Baby Gentle Shampoo (200 ml)",
+    "name_ar": "شامبو لطيف للأطفال من غيم (200 مل)",
+    "description": "Tear-free shampoo for delicate scalps. Pack size: 200 ml.",
+    "description_ar": "شامبو لا يسبب الدموع لفروة رأس الطفل الحساسة. حجم العبوة: 200 مل.",
+    "brand": "Ghaim Baby",
+    "category": "baby-care",
+    "price": 1950,
+    "status": 1,
+    "stock": {
+      "dammam": 18,
+      "jeddah": 103,
+      "riyadh": 85
+    },
+    "requires_prescription": false
+  },
+  {
+    "sku": "BABY-004",
+    "name": "Ghaim Baby Gentle Shampoo (500 ml)",
+    "name_ar": "شامبو لطيف للأطفال من غيم (500 مل)",
+    "description": "Tear-free shampoo for delicate scalps. Pack size: 500 ml.",
+    "description_ar": "شامبو لا يسبب الدموع لفروة رأس الطفل الحساسة. حجم العبوة: 500 مل.",
+    "brand": "Ghaim Baby",
+    "category": "baby-care",
+    "price": 4100,
+    "status": 1,
+    "stock": {
+      "dammam": 0,
+      "jeddah": 0,
+      "riyadh": 58
+    },
+    "requires_prescription": false
+  },
+  {
+    "sku": "BABY-005",
+    "name": "Ghaim Infant Colic Drops (30 ml)",
+    "name_ar": "قطرات المغص للرضع من غيم (30 مل)",
+    "description": "Relieves wind and colic in babies. Pack size: 30 ml.",
+    "description_ar": "تخفف الغازات والمغص عند الرضع. حجم العبوة: 30 مل.",
+    "brand": "Ghaim Baby",
+    "category": "baby-care",
+    "price": 2175,
+    "status": 1,
+    "stock": {
+      "dammam": 0,
+      "jeddah": 0,
+      "riyadh": 0
+    },
+    "requires_prescription": false,
+    "active_ingredient": "simethicone"
+  },
+  {
+    "sku": "BABY-006",
+    "name": "Ghaim Fragrance-Free Baby Wipes (60 wipes)",
+    "name_ar": "مناديل مبللة للأطفال بدون عطر من غيم (60 منديل)",
+    "description": "99% water wipes for sensitive skin. Pack size: 60 wipes.",
+    "description_ar": "مناديل مكونة من 99٪ ماء للبشرة الحساسة. حجم العبوة: 60 منديل.",
+    "brand": "Ghaim Baby",
+    "category": "baby-care",
+    "price": 1200,
+    "status": 1,
+    "stock": {
+      "dammam": 34,
+      "jeddah": 73,
+      "riyadh": 12
+    },
+    "requires_prescription": false
+  },
+  {
+    "sku": "BABY-007",
+    "name": "Ghaim Fragrance-Free Baby Wipes (180 wipes)",
+    "name_ar": "مناديل مبللة للأطفال بدون عطر من غيم (180 منديل)",
+    "description": "99% water wipes for sensitive skin. Pack size: 180 wipes.",
+    "description_ar": "مناديل مكونة من 99٪ ماء للبشرة الحساسة. حجم العبوة: 180 منديل.",
+    "brand": "Ghaim Baby",
+    "category": "baby-care",
+    "price": 3125,
+    "status": 1,
+    "stock": {
+      "dammam": 60,
+      "jeddah": 91,
+      "riyadh": 9
+    },
+    "requires_prescription": false
+  },
+  {
+    "sku": "ORAL-001",
+    "name": "Marjan Sensitive Fluoride Toothpaste (75 ml)",
+    "name_ar": "معجون أسنان بالفلورايد للأسنان الحساسة من مرجان (75 مل)",
+    "description": "Daily protection for sensitive teeth. Pack size: 75 ml. Not for children under 6.",
+    "description_ar": "حماية يومية للأسنان الحساسة. حجم العبوة: 75 مل. غير مناسب للأطفال دون 6 سنة.",
+    "brand": "Marjan Care",
+    "category": "oral-care",
+    "price": 1600,
+    "status": 1,
+    "stock": {
+      "dammam": 112,
+      "jeddah": 9,
+      "riyadh": 38
+    },
+    "requires_prescription": false,
+    "active_ingredient": "potassium nitrate, sodium fluoride",
+    "age_min": 6
+  },
+  {
+    "sku": "ORAL-002",
+    "name": "Marjan Sensitive Fluoride Toothpaste (100 ml)",
+    "name_ar": "معجون أسنان بالفلورايد للأسنان الحساسة من مرجان (100 مل)",
+    "description": "Daily protection for sensitive teeth. Pack size: 100 ml. Not for children under 6.",
+    "description_ar": "حماية يومية للأسنان الحساسة. حجم العبوة: 100 مل. غير مناسب للأطفال دون 6 سنة.",
+    "brand": "Marjan Care",
+    "category": "oral-care",
+    "price": 2000,
+    "status": 1,
+    "stock": {
+      "dammam": 112,
+      "jeddah": 77,
+      "riyadh": 50
+    },
+    "requires_prescription": false,
+    "active_ingredient": "potassium nitrate, sodium fluoride",
+    "age_min": 6
+  },
+  {
+    "sku": "ORAL-003",
+    "name": "Marjan Chlorhexidine 0.12% Mouthwash (250 ml)",
+    "name_ar": "غسول فم كلورهيكسيدين 0.12٪ من مرجان (250 مل)",
+    "description": "Antiseptic mouthwash for gum care. Pack size: 250 ml. Not for children under 12.",
+    "description_ar": "غسول فم مطهر للعناية باللثة. حجم العبوة: 250 مل. غير مناسب للأطفال دون 12 سنة.",
+    "brand": "Marjan Care",
+    "category": "oral-care",
+    "price": 2400,
+    "status": 1,
+    "stock": {
+      "dammam": 103,
+      "jeddah": 68,
+      "riyadh": 77
+    },
+    "requires_prescription": false,
+    "active_ingredient": "chlorhexidine",
+    "age_min": 12
+  },
+  {
+    "sku": "ORAL-004",
+    "name": "Marjan Chlorhexidine 0.12% Mouthwash (500 ml)",
+    "name_ar": "غسول فم كلورهيكسيدين 0.12٪ من مرجان (500 مل)",
+    "description": "Antiseptic mouthwash for gum care. Pack size: 500 ml. Not for children under 12.",
+    "description_ar": "غسول فم مطهر للعناية باللثة. حجم العبوة: 500 مل. غير مناسب للأطفال دون 12 سنة.",
+    "brand": "Marjan Care",
+    "category": "oral-care",
+    "price": 4075,
+    "status": 1,
+    "stock": {
+      "dammam": 91,
+      "jeddah": 59,
+      "riyadh": 13
+    },
+    "requires_prescription": false,
+    "active_ingredient": "chlorhexidine",
+    "age_min": 12
+  },
+  {
+    "sku": "ORAL-005",
+    "name": "Marjan Kids Strawberry Toothpaste (50 ml)",
+    "name_ar": "معجون أسنان للأطفال بنكهة الفراولة من مرجان (50 مل)",
+    "description": "Low-fluoride toothpaste for children aged 2 to 6. Pack size: 50 ml. Not for children under 2.",
+    "description_ar": "معجون منخفض الفلورايد للأطفال من 2 إلى 6 سنوات. حجم العبوة: 50 مل. غير مناسب للأطفال دون 2 سنة.",
+    "brand": "Marjan Care",
+    "category": "oral-care",
+    "price": 1150,
+    "status": 1,
+    "stock": {
+      "dammam": 35,
+      "jeddah": 22,
+      "riyadh": 106
+    },
+    "requires_prescription": false,
+    "active_ingredient": "sodium fluoride",
+    "age_min": 2
+  },
+  {
+    "sku": "FAID-001",
+    "name": "Wahat Povidone-Iodine 10% Antiseptic Solution (60 ml)",
+    "name_ar": "محلول مطهر بوفيدون يود 10٪ من واحات (60 مل)",
+    "description": "Cleans minor cuts and grazes. Pack size: 60 ml.",
+    "description_ar": "لتطهير الجروح والخدوش البسيطة. حجم العبوة: 60 مل.",
+    "brand": "Wahat Labs",
+    "category": "first-aid",
+    "price": 1350,
+    "status": 1,
+    "stock": {
+      "dammam": 55,
+      "jeddah": 33,
+      "riyadh": 98
+    },
+    "requires_prescription": false,
+    "active_ingredient": "povidone-iodine"
+  },
+  {
+    "sku": "FAID-002",
+    "name": "Wahat Povidone-Iodine 10% Antiseptic Solution (125 ml)",
+    "name_ar": "محلول مطهر بوفيدون يود 10٪ من واحات (125 مل)",
+    "description": "Cleans minor cuts and grazes. Pack size: 125 ml.",
+    "description_ar": "لتطهير الجروح والخدوش البسيطة. حجم العبوة: 125 مل.",
+    "brand": "Wahat Labs",
+    "category": "first-aid",
+    "price": 2300,
+    "special_price": 1955,
+    "status": 1,
+    "stock": {
+      "dammam": 0,
+      "jeddah": 0,
+      "riyadh": 0
+    },
+    "requires_prescription": false,
+    "active_ingredient": "povidone-iodine"
+  },
+  {
+    "sku": "FAID-003",
+    "name": "Wahat Assorted Adhesive Bandages (20 pieces)",
+    "name_ar": "لاصقات جروح متنوعة من واحات (20 قطعة)",
+    "description": "Breathable plasters in assorted sizes. Pack size: 20 pieces.",
+    "description_ar": "لاصقات جروح قابلة للتنفس بأحجام متنوعة. حجم العبوة: 20 قطعة.",
+    "brand": "Wahat Labs",
+    "category": "first-aid",
+    "price": 975,
+    "status": 1,
+    "stock": {
+      "dammam": 0,
+      "jeddah": 95,
+      "riyadh": 108
+    },
+    "requires_prescription": false
+  },
+  {
+    "sku": "FAID-004",
+    "name": "Wahat Assorted Adhesive Bandages (40 pieces)",
+    "name_ar": "لاصقات جروح متنوعة من واحات (40 قطعة)",
+    "description": "Breathable plasters in assorted sizes. Pack size: 40 pieces.",
+    "description_ar": "لاصقات جروح قابلة للتنفس بأحجام متنوعة. حجم العبوة: 40 قطعة.",
+    "brand": "Wahat Labs",
+    "category": "first-aid",
+    "price": 1650,
+    "status": 1,
+    "stock": {
+      "dammam": 102,
+      "jeddah": 6,
+      "riyadh": 110
+    },
+    "requires_prescription": false
+  },
+  {
+    "sku": "FAID-005",
+    "name": "Wahat Digital Thermometer (1 piece)",
+    "name_ar": "ميزان حرارة رقمي من واحات (1 قطعة)",
+    "description": "Fast 10-second reading with fever alert. Pack size: 1 piece.",
+    "description_ar": "قراءة سريعة خلال 10 ثوانٍ مع تنبيه للحرارة. حجم العبوة: 1 قطعة.",
+    "brand": "Wahat Labs",
+    "category": "first-aid",
+    "price": 3500,
+    "status": 1,
+    "stock": {
+      "dammam": 27,
+      "jeddah": 114,
+      "riyadh": 94
+    },
+    "requires_prescription": false
+  },
+  {
+    "sku": "DIAB-001",
+    "name": "Nakheel Blood Glucose Test Strips (25 strips)",
+    "name_ar": "شرائط فحص سكر الدم من نخيل (25 شريط)",
+    "description": "Accurate blood sugar results in 5 seconds. Pack size: 25 strips.",
+    "description_ar": "نتائج دقيقة لسكر الدم خلال 5 ثوانٍ. حجم العبوة: 25 شريط.",
+    "brand": "Nakheel Health",
+    "category": "diabetes-care",
+    "price": 5900,
+    "special_price": 4720,
+    "status": 1,
+    "stock": {
+      "dammam": 65,
+      "jeddah": 82,
+      "riyadh": 104
+    },
+    "requires_prescription": false
+  },
+  {
+    "sku": "DIAB-002",
+    "name": "Nakheel Blood Glucose Test Strips (50 strips)",
+    "name_ar": "شرائط فحص سكر الدم من نخيل (50 شريط)",
+    "description": "Accurate blood sugar results in 5 seconds. Pack size: 50 strips.",
+    "description_ar": "نتائج دقيقة لسكر الدم خلال 5 ثوانٍ. حجم العبوة: 50 شريط.",
+    "brand": "Nakheel Health",
+    "category": "diabetes-care",
+    "price": 10625,
+    "status": 1,
+    "stock": {
+      "dammam": 57,
+      "jeddah": 113,
+      "riyadh": 107
+    },
+    "requires_prescription": false
+  },
+  {
+    "sku": "DIAB-003",
+    "name": "Nakheel Sterile Lancets 30G (100 lancets)",
+    "name_ar": "إبر وخز معقمة 30G من نخيل (100 إبرة)",
+    "description": "Ultra-thin lancets for comfortable testing. Pack size: 100 lancets.",
+    "description_ar": "إبر رفيعة جداً لفحص مريح. حجم العبوة: 100 إبرة.",
+    "brand": "Nakheel Health",
+    "category": "diabetes-care",
+    "price": 1800,
+    "status": 1,
+    "stock": {
+      "dammam": 38,
+      "jeddah": 105,
+      "riyadh": 99
+    },
+    "requires_prescription": false
+  },
+  {
+    "sku": "DIAB-004",
+    "name": "Nakheel Sterile Lancets 30G (200 lancets)",
+    "name_ar": "إبر وخز معقمة 30G من نخيل (200 إبرة)",
+    "description": "Ultra-thin lancets for comfortable testing. Pack size: 200 lancets.",
+    "description_ar": "إبر رفيعة جداً لفحص مريح. حجم العبوة: 200 إبرة.",
+    "brand": "Nakheel Health",
+    "category": "diabetes-care",
+    "price": 3250,
+    "status": 1,
+    "stock": {
+      "dammam": 93,
+      "jeddah": 92,
+      "riyadh": 91
+    },
+    "requires_prescription": false
+  },
+  {
+    "sku": "RX-001",
+    "name": "Sahra Amoxicillin 500 mg Capsules (21 capsules)",
+    "name_ar": "كبسولات أموكسيسيلين 500 ملغ من صحراء (21 كبسولة)",
+    "description": "Antibiotic for bacterial infections. Pack size: 21 capsules. Prescription-only medicine.",
+    "description_ar": "مضاد حيوي لعلاج الالتهابات البكتيرية. حجم العبوة: 21 كبسولة. دواء يصرف بوصفة طبية فقط.",
+    "brand": "Sahra Pharma",
+    "category": "prescription",
+    "price": 1400,
+    "status": 1,
+    "stock": {
+      "dammam": 118,
+      "jeddah": 14,
+      "riyadh": 21
+    },
+    "requires_prescription": true,
+    "active_ingredient": "amoxicillin"
+  },
+  {
+    "sku": "RX-002",
+    "name": "Sahra Azithromycin 250 mg Tablets (6 tablets)",
+    "name_ar": "أقراص أزيثروميسين 250 ملغ من صحراء (6 قرص)",
+    "description": "Antibiotic for respiratory and skin infections. Pack size: 6 tablets. Prescription-only medicine.",
+    "description_ar": "مضاد حيوي لالتهابات الجهاز التنفسي والجلد. حجم العبوة: 6 قرص. دواء يصرف بوصفة طبية فقط.",
+    "brand": "Sahra Pharma",
+    "category": "prescription",
+    "price": 2700,
+    "status": 1,
+    "stock": {
+      "dammam": 76,
+      "jeddah": 0,
+      "riyadh": 0
+    },
+    "requires_prescription": true,
+    "active_ingredient": "azithromycin"
+  },
+  {
+    "sku": "RX-003",
+    "name": "Sahra Metformin 500 mg Tablets (30 tablets)",
+    "name_ar": "أقراص ميتفورمين 500 ملغ من صحراء (30 قرص)",
+    "description": "Helps control blood sugar in type 2 diabetes. Pack size: 30 tablets. Prescription-only medicine. Not for children under 18.",
+    "description_ar": "يساعد على ضبط سكر الدم لمرضى السكري من النوع الثاني. حجم العبوة: 30 قرص. دواء يصرف بوصفة طبية فقط. غير مناسب للأطفال دون 18 سنة.",
+    "brand": "Sahra Pharma",
+    "category": "prescription",
+    "price": 950,
+    "status": 1,
+    "stock": {
+      "dammam": 105,
+      "jeddah": 0,
+      "riyadh": 54
+    },
+    "requires_prescription": true,
+    "active_ingredient": "metformin",
+    "age_min": 18
+  },
+  {
+    "sku": "RX-004",
+    "name": "Sahra Metformin 500 mg Tablets (60 tablets)",
+    "name_ar": "أقراص ميتفورمين 500 ملغ من صحراء (60 قرص)",
+    "description": "Helps control blood sugar in type 2 diabetes. Pack size: 60 tablets. Prescription-only medicine. Not for children under 18.",
+    "description_ar": "يساعد على ضبط سكر الدم لمرضى السكري من النوع الثاني. حجم العبوة: 60 قرص. دواء يصرف بوصفة طبية فقط. غير مناسب للأطفال دون 18 سنة.",
+    "brand": "Sahra Pharma",
+    "category": "prescription",
+    "price": 1700,
+    "status": 1,
+    "stock": {
+      "dammam": 96,
+      "jeddah": 109,
+      "riyadh": 110
+    },
+    "requires_prescription": true,
+    "active_ingredient": "metformin",
+    "age_min": 18
+  },
+  {
+    "sku": "RX-005",
+    "name": "Sahra Atorvastatin 20 mg Tablets (30 tablets)",
+    "name_ar": "أقراص أتورفاستاتين 20 ملغ من صحراء (30 قرص)",
+    "description": "Lowers cholesterol. Pack size: 30 tablets. Prescription-only medicine. Not for children under 18.",
+    "description_ar": "يخفض الكوليسترول. حجم العبوة: 30 قرص. دواء يصرف بوصفة طبية فقط. غير مناسب للأطفال دون 18 سنة.",
+    "brand": "Sahra Pharma",
+    "category": "prescription",
+    "price": 3200,
+    "status": 1,
+    "stock": {
+      "dammam": 0,
+      "jeddah": 0,
+      "riyadh": 0
+    },
+    "requires_prescription": true,
+    "active_ingredient": "atorvastatin",
+    "age_min": 18
+  },
+  {
+    "sku": "RX-006",
+    "name": "Sahra Amlodipine 5 mg Tablets (30 tablets)",
+    "name_ar": "أقراص أملوديبين 5 ملغ من صحراء (30 قرص)",
+    "description": "Treats high blood pressure. Pack size: 30 tablets. Prescription-only medicine. Not for children under 18.",
+    "description_ar": "يعالج ارتفاع ضغط الدم. حجم العبوة: 30 قرص. دواء يصرف بوصفة طبية فقط. غير مناسب للأطفال دون 18 سنة.",
+    "brand": "Sahra Pharma",
+    "category": "prescription",
+    "price": 1850,
+    "status": 1,
+    "stock": {
+      "dammam": 7,
+      "jeddah": 94,
+      "riyadh": 0
+    },
+    "requires_prescription": true,
+    "active_ingredient": "amlodipine",
+    "age_min": 18
+  },
+  {
+    "sku": "RX-007",
+    "name": "Sahra Salbutamol 100 mcg Inhaler (200 doses)",
+    "name_ar": "بخاخ سالبوتامول 100 ميكروغرام من صحراء (200 جرعة)",
+    "description": "Relieves asthma symptoms. Pack size: 200 doses. Prescription-only medicine. Not for children under 4.",
+    "description_ar": "يخفف أعراض الربو. حجم العبوة: 200 جرعة. دواء يصرف بوصفة طبية فقط. غير مناسب للأطفال دون 4 سنة.",
+    "brand": "Sahra Pharma",
+    "category": "prescription",
+    "price": 1675,
+    "status": 1,
+    "stock": {
+      "dammam": 9,
+      "jeddah": 34,
+      "riyadh": 61
+    },
+    "requires_prescription": true,
+    "active_ingredient": "salbutamol",
+    "age_min": 4
+  },
+  {
+    "sku": "RX-008",
+    "name": "Sahra Prednisolone 5 mg Tablets (30 tablets)",
+    "name_ar": "أقراص بريدنيزولون 5 ملغ من صحراء (30 قرص)",
+    "description": "Corticosteroid for inflammation and allergic conditions. Pack size: 30 tablets. Prescription-only medicine.",
+    "description_ar": "كورتيكوستيرويد لعلاج الالتهابات وحالات الحساسية. حجم العبوة: 30 قرص. دواء يصرف بوصفة طبية فقط.",
+    "brand": "Sahra Pharma",
+    "category": "prescription",
+    "price": 875,
+    "status": 1,
+    "stock": {
+      "dammam": 86,
+      "jeddah": 60,
+      "riyadh": 32
+    },
+    "requires_prescription": true,
+    "active_ingredient": "prednisolone"
+  },
+  {
+    "sku": "PAIN-012",
+    "name": "Nakheel Paracetamol 500 mg Tablets (24 tablets)",
+    "name_ar": "أقراص باراسيتامول 500 ملغ من نخيل (24 قرص)",
+    "description": "Relieves mild to moderate pain and reduces fever. Pack size: 24 tablets. Not for children under 12.",
+    "description_ar": "يخفف الآلام الخفيفة إلى المتوسطة ويخفض الحرارة. حجم العبوة: 24 قرص. غير مناسب للأطفال دون 12 سنة.",
+    "brand": "Nakheel Health",
+    "category": "pain-relief",
+    "price": 525,
+    "status": 1,
+    "stock": {
+      "dammam": 38,
+      "jeddah": 50,
+      "riyadh": 9
+    },
+    "requires_prescription": false,
+    "active_ingredient": "paracetamol",
+    "age_min": 12
+  },
+  {
+    "sku": "PAIN-013",
+    "name": "Nakheel Children's Paracetamol Suspension 120 mg/5 ml (100 ml)",
+    "name_ar": "معلق باراسيتامول للأطفال 120 ملغ/5 مل من نخيل (100 مل)",
+    "description": "Strawberry-flavoured fever and pain relief for children from 3 months. Pack size: 100 ml.",
+    "description_ar": "خافض للحرارة ومسكن للألم للأطفال من عمر 3 أشهر بنكهة الفراولة. حجم العبوة: 100 مل.",
+    "brand": "Nakheel Health",
+    "category": "pain-relief",
+    "price": 900,
+    "special_price": 765,
+    "status": 1,
+    "stock": {
+      "dammam": 9,
+      "jeddah": 96,
+      "riyadh": 0
+    },
+    "requires_prescription": false,
+    "active_ingredient": "paracetamol"
+  },
+  {
+    "sku": "PAIN-014",
+    "name": "Nakheel Ibuprofen 400 mg Tablets (20 tablets)",
+    "name_ar": "أقراص إيبوبروفين 400 ملغ من نخيل (20 قرص)",
+    "description": "Anti-inflammatory pain relief for headaches, back pain and period pain. Pack size: 20 tablets. Not for children under 12.",
+    "description_ar": "مسكن مضاد للالتهاب لآلام الرأس والظهر وآلام الدورة الشهرية. حجم العبوة: 20 قرص. غير مناسب للأطفال دون 12 سنة.",
+    "brand": "Nakheel Health",
+    "category": "pain-relief",
+    "price": 775,
+    "status": 1,
+    "stock": {
+      "dammam": 27,
+      "jeddah": 51,
+      "riyadh": 101
+    },
+    "requires_prescription": false,
+    "active_ingredient": "ibuprofen",
+    "age_min": 12
+  },
+  {
+    "sku": "PAIN-015",
+    "name": "Nakheel Children's Ibuprofen Suspension 100 mg/5 ml (100 ml)",
+    "name_ar": "معلق إيبوبروفين للأطفال 100 ملغ/5 مل من نخيل (100 مل)",
+    "description": "Orange-flavoured relief from fever and teething pain for children from 3 months. Pack size: 100 ml.",
+    "description_ar": "يخفف الحرارة وآلام التسنين للأطفال من عمر 3 أشهر بنكهة البرتقال. حجم العبوة: 100 مل.",
+    "brand": "Nakheel Health",
+    "category": "pain-relief",
+    "price": 1150,
+    "status": 1,
+    "stock": {
+      "dammam": 119,
+      "jeddah": 44,
+      "riyadh": 111
+    },
+    "requires_prescription": false,
+    "active_ingredient": "ibuprofen"
+  },
+  {
+    "sku": "PAIN-016",
+    "name": "Nakheel Diclofenac 1% Gel (50 g)",
+    "name_ar": "جل ديكلوفيناك 1٪ من نخيل (50 غ)",
+    "description": "Topical relief for muscle and joint pain. Pack size: 50 g. Not for children under 14.",
+    "description_ar": "مسكن موضعي لآلام العضلات والمفاصل. حجم العبوة: 50 غ. غير مناسب للأطفال دون 14 سنة.",
+    "brand": "Nakheel Health",
+    "category": "pain-relief",
+    "price": 1450,
+    "status": 1,
+    "stock": {
+      "dammam": 80,
+      "jeddah": 0,
+      "riyadh": 16
+    },
+    "requires_prescription": false,
+    "active_ingredient": "diclofenac",
+    "age_min": 14
+  },
+  {
+    "sku": "PAIN-017",
+    "name": "Nakheel Naproxen 500 mg Tablets (20 tablets)",
+    "name_ar": "أقراص نابروكسين 500 ملغ من نخيل (20 قرص)",
+    "description": "Prescription anti-inflammatory for arthritis and acute pain. Pack size: 20 tablets. Prescription-only medicine. Not for children under 16.",
+    "description_ar": "مضاد التهاب يصرف بوصفة لعلاج التهاب المفاصل والألم الحاد. حجم العبوة: 20 قرص. دواء يصرف بوصفة طبية فقط. غير مناسب للأطفال دون 16 سنة.",
+    "brand": "Nakheel Health",
+    "category": "pain-relief",
+    "price": 1675,
+    "status": 1,
+    "stock": {
+      "dammam": 43,
+      "jeddah": 8,
+      "riyadh": 92
+    },
+    "requires_prescription": true,
+    "active_ingredient": "naproxen",
+    "age_min": 16
+  },
+  {
+    "sku": "COLD-012",
+    "name": "Wahat Cold \u0026 Flu Day Capsules (16 capsules)",
+    "name_ar": "كبسولات البرد والإنفلونزا النهارية من واحات (16 كبسولة)",
+    "description": "Relieves fever, aches and blocked nose without drowsiness. Pack size: 16 capsules. Not for children under 12.",
+    "description_ar": "يخفف الحرارة والآلام واحتقان الأنف دون التسبب بالنعاس. حجم العبوة: 16 كبسولة. غير مناسب للأطفال دون 12 سنة.",
+    "brand": "Wahat Labs",
+    "category": "cold-flu",
+    "price": 1325,
+    "status": 1,
+    "stock": {
+      "dammam": 106,
+      "jeddah": 72,
+      "riyadh": 0
+    },
+    "requires_prescription": false,
+    "active_ingredient": "paracetamol, pseudoephedrine",
+    "age_min": 12
+  },
+  {
+    "sku": "COLD-013",
+    "name": "Wahat Dry Cough Syrup (100 ml)",
+    "name_ar": "شراب السعال الجاف من واحات (100 مل)",
+    "description": "Soothes dry, tickly coughs. Pack size: 100 ml. Not for children under 6.",
+    "description_ar": "يهدئ السعال الجاف والمزعج. حجم العبوة: 100 مل. غير مناسب للأطفال دون 6 سنة.",
+    "brand": "Wahat Labs",
+    "category": "cold-flu",
+    "price": 1550,
+    "status": 1,
+    "stock": {
+      "dammam": 0,
+      "jeddah": 0,
+      "riyadh": 0
+    },
+    "requires_prescription": false,
+    "active_ingredient": "dextromethorphan",
+    "age_min": 6
+  },
+  {
+    "sku": "COLD-014",
+    "name": "Wahat Chesty Cough Syrup (100 ml)",
+    "name_ar": "شراب السعال المصحوب بالبلغم من واحات (100 مل)",
+    "description": "Loosens mucus to relieve chesty coughs. Pack size: 100 ml. Not for children under 6.",
+    "description_ar": "يساعد على تذويب البلغم وتخفيف السعال الصدري. حجم العبوة: 100 مل. غير مناسب للأطفال دون 6 سنة.",
+    "brand": "Wahat Labs",
+    "category": "cold-flu",
+    "price": 1550,
+    "status": 1,
+    "stock": {
+      "dammam": 51,
+      "jeddah": 68,
+      "riyadh": 112
+    },
+    "requires_prescription": false,
+    "active_ingredient": "guaifenesin",
+    "age_min": 6
+  },
+  {
+    "sku": "COLD-015",
+    "name": "Wahat Saline Nasal Spray (30 ml)",
+    "name_ar": "بخاخ أنف بالمحلول الملحي من واحات (30 مل)",
+    "description": "Gently clears and moisturises the nose. Suitable for daily use. Pack size: 30 ml.",
+    "description_ar": "ينظف الأنف ويرطبه بلطف ومناسب للاستخدام اليومي. حجم العبوة: 30 مل.",
+    "brand": "Wahat Labs",
+    "category": "cold-flu",
+    "price": 1050,
+    "status": 1,
+    "stock": {
+      "dammam": 0,
+      "jeddah": 0,
+      "riyadh": 38
+    },
+    "requires_prescription": false,
+    "active_ingredient": "sodium chloride"
+  },
+  {
+    "sku": "COLD-016",
+    "name": "Wahat Honey \u0026 Lemon Throat Lozenges (16 lozenges)",
+    "name_ar": "أقراص استحلاب للحلق بالعسل والليمون من واحات (16 قرص استحلاب)",
+    "description": "Antiseptic lozenges for sore throats. Pack size: 16 lozenges. Not for children under 6.",
+    "description_ar": "أقراص استحلاب مطهرة لالتهاب الحلق. حجم العبوة: 16 قرص استحلاب. غير مناسب للأطفال دون 6 سنة.",
+    "brand": "Wahat Labs",
+    "category": "cold-flu",
+    "price": 1000,
+    "special_price": 850,
+    "status": 1,
+    "stock": {
+      "dammam": 45,
+      "jeddah": 27,
+      "riyadh": 0
+    },
+    "requires_prescription": false,
+    "active_ingredient": "amylmetacresol, dichlorobenzyl alcohol",
+    "age_min": 6
+  },
+  {
+    "sku": "COLD-017",
+    "name": "Wahat Xylometazoline 0.1% Nasal Spray (10 ml)",
+    "name_ar": "بخاخ أنف زايلوميتازولين 0.1٪ من واحات (10 مل)",
+    "description": "Fast relief from nasal congestion. Do not use for more than 7 days. Pack size: 10 ml. Not for children under 12.",
+    "description_ar": "يخفف احتقان الأنف بسرعة. لا يستخدم لأكثر من 7 أيام. حجم العبوة: 10 مل. غير مناسب للأطفال دون 12 سنة.",
+    "brand": "Wahat Labs",
+    "category": "cold-flu",
+    "price": 850,
+    "status": 1,
+    "stock": {
+      "dammam": 71,
+      "jeddah": 51,
+      "riyadh": 119
+    },
+    "requires_prescription": false,
+    "active_ingredient": "xylometazoline",
+    "age_min": 12
+  },
+  {
+    "sku": "ALRG-008",
+    "name": "Sahra Cetirizine 10 mg Tablets (10 tablets)",
+    "name_ar": "أقراص سيتريزين 10 ملغ من صحراء (10 قرص)",
+    "description": "Once-daily relief from hay fever and allergy symptoms. Pack size: 10 tablets. Not for children under 6.",
+    "description_ar": "قرص واحد يومياً لتخفيف أعراض حساسية الأنف والحساسية الموسمية. حجم العبوة: 10 قرص. غير مناسب للأطفال دون 6 سنة.",
+    "brand": "Sahra Pharma",
+    "category": "allergy",
+    "price": 925,
+    "status": 1,
+    "stock": {
+      "dammam": 40,
+      "jeddah": 115,
+      "riyadh": 116
+    },
+    "requires_prescription": false,
+    "active_ingredient": "cetirizine",
+    "age_min": 6
+  },
+  {
+    "sku": "ALRG-009",
+    "name": "Sahra Loratadine 10 mg Tablets (10 tablets)",
+    "name_ar": "أقراص لوراتادين 10 ملغ من صحراء (10 قرص)",
+    "description": "Non-drowsy 24-hour allergy relief. Pack size: 10 tablets. Not for children under 6.",
+    "description_ar": "يخفف أعراض الحساسية لمدة 24 ساعة دون نعاس. حجم العبوة: 10 قرص. غير مناسب للأطفال دون 6 سنة.",
+    "brand": "Sahra Pharma",
+    "category": "allergy",
+    "price": 1025,
+    "special_price": 920,
+    "status": 1,
+    "stock": {
+      "dammam": 29,
+      "jeddah": 28,
+      "riyadh": 51
+    },
+    "requires_prescription": false,
+    "active_ingredient": "loratadine",
+    "age_min": 6
+  },
+  {
+    "sku": "ALRG-010",
+    "name": "Sahra Fexofenadine 180 mg Tablets (10 tablets)",
+    "name_ar": "أقراص فيكسوفينادين 180 ملغ من صحراء (10 قرص)",
+    "description": "Non-drowsy relief from seasonal allergies and hives. Pack size: 10 tablets. Not for children under 12.",
+    "description_ar": "يخفف الحساسية الموسمية والشرى دون نعاس. حجم العبوة: 10 قرص. غير مناسب للأطفال دون 12 سنة.",
+    "brand": "Sahra Pharma",
+    "category": "allergy",
+    "price": 1925,
+    "status": 1,
+    "stock": {
+      "dammam": 76,
+      "jeddah": 88,
+      "riyadh": 81
+    },
+    "requires_prescription": false,
+    "active_ingredient": "fexofenadine",
+    "age_min": 12
+  },
+  {
+    "sku": "ALRG-011",
+    "name": "Sahra Allergy Eye Drops (10 ml)",
+    "name_ar": "قطرة عين للحساسية من صحراء (10 مل)",
+    "description": "Relieves itchy, watery eyes caused by allergies. Pack size: 10 ml. Not for children under 6.",
+    "description_ar": "تخفف حكة العين ودموعها الناتجة عن الحساسية. حجم العبوة: 10 مل. غير مناسب للأطفال دون 6 سنة.",
+    "brand": "Sahra Pharma",
+    "category": "allergy",
+    "price": 1400,
+    "status": 1,
+    "stock": {
+      "dammam": 40,
+      "jeddah": 70,
+      "riyadh": 113
+    },
+    "requires_prescription": false,
+    "active_ingredient": "sodium cromoglicate",
+    "age_min": 6
+  },
+  {
+    "sku": "DIGE-013",
+    "name": "Nakheel Antacid Chewable Tablets (24 tablets)",
+    "name_ar": "أقراص مضغ مضادة للحموضة من نخيل (24 قرص)",
+    "description": "Fast relief from heartburn and indigestion. Mint flavour. Pack size: 24 tablets. Not for children under 12.",
+    "description_ar": "تخفيف سريع لحرقة المعدة وعسر الهضم بنكهة النعناع. حجم العبوة: 24 قرص. غير مناسب للأطفال دون 12 سنة.",
+    "brand": "Nakheel Health",
+    "category": "digestive",
+    "price": 725,
+    "special_price": 580,
+    "status": 1,
+    "stock": {
+      "dammam": 65,
+      "jeddah": 38,
+      "riyadh": 20
+    },
+    "requires_prescription": false,
+    "active_ingredient": "calcium carbonate",
+    "age_min": 12
+  },
+  {
+    "sku": "DIGE-014",
+    "name": "Nakheel Omeprazole 20 mg Capsules (14 capsules)",
+    "name_ar": "كبسولات أوميبرازول 20 ملغ من نخيل (14 كبسولة)",
+    "description": "Reduces stomach acid for frequent heartburn. Pack size: 14 capsules. Not for children under 18.",
+    "description_ar": "يقلل حمض المعدة لعلاج الحرقة المتكررة. حجم العبوة: 14 كبسولة. غير مناسب للأطفال دون 18 سنة.",
+    "brand": "Nakheel Health",
+    "category": "digestive",
+    "price": 1800,
+    "status": 1,
+    "stock": {
+      "dammam": 21,
+      "jeddah": 27,
+      "riyadh": 36
+    },
+    "requires_prescription": false,
+    "active_ingredient": "omeprazole",
+    "age_min": 18
+  },
+  {
+    "sku": "DIGE-015",
+    "name": "Nakheel Oral Rehydration Salts (6 sachets)",
+    "name_ar": "أملاح الإرواء الفموي من نخيل (6 كيس)",
+    "description": "Replaces fluids and minerals lost through diarrhoea or heat. Pack size: 6 sachets.",
+    "description_ar": "يعوض السوائل والأملاح المفقودة بسبب الإسهال أو الحر. حجم العبوة: 6 كيس.",
+    "brand": "Nakheel Health",
+    "category": "digestive",
+    "price": 650,
+    "status": 1,
+    "stock": {
+      "dammam": 52,
+      "jeddah": 27,
+      "riyadh": 0
+    },
+    "requires_prescription": false,
+    "active_ingredient": "sodium chloride, glucose, potassium chloride"
+  },
+  {
+    "sku": "DIGE-016",
+    "name": "Nakheel Loperamide 2 mg Capsules (6 capsules)",
+    "name_ar": "كبسولات لوبيراميد 2 ملغ من نخيل (6 كبسولة)",
+    "description": "Fast relief from short-term diarrhoea. Pack size: 6 capsules. Not for children under 12.",
+    "description_ar": "يوقف الإسهال المؤقت بسرعة. حجم العبوة: 6 كبسولة. غير مناسب للأطفال دون 12 سنة.",
+    "brand": "Nakheel Health",
+    "category": "digestive",
+    "price": 850,
+    "status": 1,
+    "stock": {
+      "dammam": 92,
+      "jeddah": 98,
+      "riyadh": 104
+    },
+    "requires_prescription": false,
+    "active_ingredient": "loperamide",
+    "age_min": 12
+  },
+  {
+    "sku": "DIGE-017",
+    "name": "Nakheel Probiotic Daily Capsules (30 capsules)",
+    "name_ar": "كبسولات بروبيوتيك يومية من نخيل (30 كبسولة)",
+    "description": "Supports healthy digestion and gut flora. Pack size: 30 capsules. Not for children under 3.",
+    "description_ar": "يدعم الهضم الصحي وتوازن بكتيريا الأمعاء. حجم العبوة: 30 كبسولة. غير مناسب للأطفال دون 3 سنة.",
+    "brand": "Nakheel Health",
+    "category": "digestive",
+    "price": 4325,
+    "status": 1,
+    "stock": {
+      "dammam": 102,
+      "jeddah": 113,
+      "riyadh": 59
+    },
+    "requires_prescription": false,
+    "active_ingredient": "lactobacillus rhamnosus",
+    "age_min": 3
+  },
+  {
+    "sku": "DIGE-018",
+    "name": "Nakheel Lactulose Oral Solution (200 ml)",
+    "name_ar": "محلول لاكتولوز فموي من نخيل (200 مل)",
+    "description": "Gentle relief from constipation. Pack size: 200 ml. Not for children under 1.",
+    "description_ar": "يخفف الإمساك بلطف. حجم العبوة: 200 مل. غير مناسب للأطفال دون 1 سنة.",
+    "brand": "Nakheel Health",
+    "category": "digestive",
+    "price": 1900,
+    "status": 1,
+    "stock": {
+      "dammam": 98,
+      "jeddah": 0,
+      "riyadh": 107
+    },
+    "requires_prescription": false,
+    "active_ingredient": "lactulose",
+    "age_min": 1
+  },
+  {
+    "sku": "VITA-021",
+    "name": "Rawda Vitamin D3 1000 IU Softgels (60 softgels)",
+    "name_ar": "كبسولات فيتامين د3 1000 وحدة دولية من روضة (60 كبسولة جيلاتينية)",
+    "description": "Supports healthy bones, teeth and immunity. Pack size: 60 softgels. Not for children under 12.",
+    "description_ar": "يدعم صحة العظام والأسنان والمناعة. حجم العبوة: 60 كبسولة جيلاتينية. غير مناسب للأطفال دون 12 سنة.",
+    "brand": "Rawda Naturals",
+    "category": "vitamins",
+    "price": 2325,
+    "special_price": 1860,
+    "status": 1,
+    "stock": {
+      "dammam": 65,
+      "jeddah": 32,
+      "riyadh": 0
+    },
+    "requires_prescription": false,
+    "active_ingredient": "cholecalciferol",
+    "age_min": 12
+  },
+  {
+    "sku": "VITA-022",
+    "name": "Rawda Vitamin C 1000 mg Effervescent (10 effervescent tablets)",
+    "name_ar": "أقراص فوارة فيتامين سي 1000 ملغ من روضة (10 قرص فوار)",
+    "description": "Orange-flavoured immune support. Pack size: 10 effervescent tablets. Not for children under 12.",
+    "description_ar": "دعم للمناعة بنكهة البرتقال. حجم العبوة: 10 قرص فوار. غير مناسب للأطفال دون 12 سنة.",
+    "brand": "Rawda Naturals",
+    "category": "vitamins",
+    "price": 1250,
+    "status": 1,
+    "stock": {
+      "dammam": 26,
+      "jeddah": 94,
+      "riyadh": 82
+    },
+    "requires_prescription": false,
+    "active_ingredient": "ascorbic acid",
+    "age_min": 12
+  },
+  {
+    "sku": "VITA-023",
+    "name": "Rawda Women's Multivitamin (30 tablets)",
+    "name_ar": "فيتامينات متعددة للنساء من روضة (30 قرص)",
+    "description": "Daily vitamins and minerals formulated for women. Pack size: 30 tablets. Not for children under 18.",
+    "description_ar": "فيتامينات ومعادن يومية مخصصة للنساء. حجم العبوة: 30 قرص. غير مناسب للأطفال دون 18 سنة.",
+    "brand": "Rawda Naturals",
+    "category": "vitamins",
+    "price": 4950,
+    "special_price": 3715,
+    "status": 1,
+    "stock": {
+      "dammam": 71,
+      "jeddah": 35,
+      "riyadh": 11
+    },
+    "requires_prescription": false,
+    "active_ingredient": "multivitamin, iron, folic acid",
+    "age_min": 18
+  },
+  {
+    "sku": "VITA-024",
+    "name": "Rawda Men's Multivitamin (30 tablets)",
+    "name_ar": "فيتامينات متعددة للرجال من روضة (30 قرص)",
+    "description": "Daily vitamins and minerals formulated for men. Pack size: 30 tablets. Not for children under 18.",
+    "description_ar": "فيتامينات ومعادن يومية مخصصة للرجال. حجم العبوة: 30 قرص. غير مناسب للأطفال دون 18 سنة.",
+    "brand": "Rawda Naturals",
+    "category": "vitamins",
+    "price": 4950,
+    "special_price": 3960,
+    "status": 1,
+    "stock": {
+      "dammam": 41,
+      "jeddah": 0,
+      "riyadh": 115
+    },
+    "requires_prescription": false,
+    "active_ingredient": "multivitamin, zinc",
+    "age_min": 18
+  },
+  {
+    "sku": "VITA-025",
+    "name": "Rawda Kids Multivitamin Gummies (30 gummies)",
+    "name_ar": "حلوى فيتامينات متعددة للأطفال من روضة (30 حلوى)",
+    "description": "Fruit-flavoured daily vitamins for children. Pack size: 30 gummies. Not for children under 3.",
+    "description_ar": "فيتامينات يومية للأطفال بنكهة الفواكه. حجم العبوة: 30 حلوى. غير مناسب للأطفال دون 3 سنة.",
+    "brand": "Rawda Naturals",
+    "category": "vitamins",
+    "price": 3600,
+    "special_price": 2880,
+    "status": 1,
+    "stock": {
+      "dammam": 76,
+      "jeddah": 70,
+      "riyadh": 21
+    },
+    "requires_prescription": false,
+    "active_ingredient": "multivitamin",
+    "age_min": 3
+  },
+  {
+    "sku": "VITA-026",
+    "name": "Rawda Omega-3 Fish Oil 1000 mg (60 softgels)",
+    "name_ar": "زيت السمك أوميغا 3 1000 ملغ من روضة (60 كبسولة جيلاتينية)",
+    "description": "Supports heart, brain and eye health. Pack size: 60 softgels. Not for children under 12.",
+    "description_ar": "يدعم صحة القلب والدماغ والعينين. حجم العبوة: 60 كبسولة جيلاتينية. غير مناسب للأطفال دون 12 سنة.",
+    "brand": "Rawda Naturals",
+    "category": "vitamins",
+    "price": 3950,
+    "status": 1,
+    "stock": {
+      "dammam": 74,
+      "jeddah": 10,
+      "riyadh": 106
+    },
+    "requires_prescription": false,
+    "active_ingredient": "EPA, DHA",
+    "age_min": 12
+  },
+  {
+    "sku": "VITA-027",
+    "name": "Rawda Iron \u0026 Folic Acid Tablets (30 tablets)",
+    "name_ar": "أقراص الحديد وحمض الفوليك من روضة (30 قرص)",
+    "description": "Helps reduce tiredness and supports healthy blood. Pack size: 30 tablets. Not for children under 18.",
+    "description_ar": "يساعد على تقليل التعب ويدعم صحة الدم. حجم العبوة: 30 قرص. غير مناسب للأطفال دون 18 سنة.",
+    "brand": "Rawda Naturals",
+    "category": "vitamins",
+    "price": 2075,
+    "status": 1,
+    "stock": {
+      "dammam": 23,
+      "jeddah": 55,
+      "riyadh": 63
+    },
+    "requires_prescription": false,
+    "active_ingredient": "ferrous fumarate, folic acid",
+    "age_min": 18
+  },
+  {
+    "sku": "VITA-028",
+    "name": "Rawda Zinc 25 mg Tablets (60 tablets)",
+    "name_ar": "أقراص زنك 25 ملغ من روضة (60 قرص)",
+    "description": "Supports immunity and healthy skin. Pack size: 60 tablets. Not for children under 12.",
+    "description_ar": "يدعم المناعة وصحة البشرة. حجم العبوة: 60 قرص. غير مناسب للأطفال دون 12 سنة.",
+    "brand": "Rawda Naturals",
+    "category": "vitamins",
+    "price": 1950,
+    "status": 1,
+    "stock": {
+      "dammam": 50,
+      "jeddah": 33,
+      "riyadh": 62
+    },
+    "requires_prescription": false,
+    "active_ingredient": "zinc gluconate",
+    "age_min": 12
+  },
+  {
+    "sku": "VITA-029",
+    "name": "Rawda Magnesium 400 mg Tablets (60 tablets)",
+    "name_ar": "أقراص مغنيسيوم 400 ملغ من روضة (60 قرص)",
+    "description": "Supports muscles, nerves and restful sleep. Pack size: 60 tablets. Not for children under 18.",
+    "description_ar": "يدعم العضلات والأعصاب والنوم المريح. حجم العبوة: 60 قرص. غير مناسب للأطفال دون 18 سنة.",
+    "brand": "Rawda Naturals",
+    "category": "vitamins",
+    "price": 3050,
+    "special_price": 2440,
+    "status": 1,
+    "stock": {
+      "dammam": 28,
+      "jeddah": 111,
+      "riyadh": 75
+    },
+    "requires_prescription": false,
+    "active_ingredient": "magnesium citrate",
+    "age_min": 18
+  },
+  {
+    "sku": "VITA-030",
+    "name": "Rawda Biotin 5000 mcg Tablets (60 tablets)",
+    "name_ar": "أقراص بيوتين 5000 ميكروغرام من روضة (60 قرص)",
+    "description": "Supports healthy hair, skin and nails. Pack size: 60 tablets. Not for children under 18.",
+    "description_ar": "يدعم صحة الشعر والبشرة والأظافر. حجم العبوة: 60 قرص. غير مناسب للأطفال دون 18 سنة.",
+    "brand": "Rawda Naturals",
+    "category": "vitamins",
+    "price": 3350,
+    "status": 1,
+    "stock": {
+      "dammam": 23,
+      "jeddah": 32,
+      "riyadh": 16
+    },
+    "requires_prescription": false,
+    "active_ingredient": "biotin",
+    "age_min": 18
+  },
+  {
+    "sku": "SKIN-011",
+    "name": "Marjan Intensive Moisturising Cream (100 ml)",
+    "name_ar": "كريم مرطب مكثف من مرجان (100 مل)",
+    "description": "Fragrance-free cream for very dry skin. Pack size: 100 ml. Not for children under 3.",
+    "description_ar": "كريم خالٍ من العطور للبشرة شديدة الجفاف. حجم العبوة: 100 مل. غير مناسب للأطفال دون 3 سنة.",
+    "brand": "Marjan Care",
+    "category": "skin-care",
+    "price": 2725,
+    "status": 1,
+    "stock": {
+      "dammam": 54,
+      "jeddah": 60,
+      "riyadh": 8
+    },
+    "requires_prescription": false,
+    "active_ingredient": "glycerin, urea",
+    "age_min": 3
+  },
+  {
+    "sku": "SKIN-012",
+    "name": "Marjan Sunscreen SPF 50+ (50 ml)",
+    "name_ar": "واقي شمس SPF 50+ من مرجان (50 مل)",
+    "description": "High protection, water-resistant, light texture. Pack size: 50 ml. Not for children under 3.",
+    "description_ar": "حماية عالية ومقاوم للماء بقوام خفيف. حجم العبوة: 50 مل. غير مناسب للأطفال دون 3 سنة.",
+    "brand": "Marjan Care",
+    "category": "skin-care",
+    "price": 5525,
+    "status": 1,
+    "stock": {
+      "dammam": 65,
+      "jeddah": 96,
+      "riyadh": 27
+    },
+    "requires_prescription": false,
+    "active_ingredient": "zinc oxide, titanium dioxide",
+    "age_min": 3
+  },
+  {
+    "sku": "SKIN-013",
+    "name": "Marjan Hydrocortisone 1% Cream (15 g)",
+    "name_ar": "كريم هيدروكورتيزون 1٪ من مرجان (15 غ)",
+    "description": "Relieves itching, insect bites and mild eczema. Pack size: 15 g. Not for children under 10.",
+    "description_ar": "يخفف الحكة ولدغات الحشرات والإكزيما الخفيفة. حجم العبوة: 15 غ. غير مناسب للأطفال دون 10 سنة.",
+    "brand": "Marjan Care",
+    "category": "skin-care",
+    "price": 1150,
+    "status": 1,
+    "stock": {
+      "dammam": 84,
+      "jeddah": 20,
+      "riyadh": 50
+    },
+    "requires_prescription": false,
+    "active_ingredient": "hydrocortisone",
+    "age_min": 10
+  },
+  {
+    "sku": "SKIN-014",
+    "name": "Marjan Benzoyl Peroxide 5% Acne Gel (40 g)",
+    "name_ar": "جل حب الشباب بنزويل بيروكسايد 5٪ من مرجان (40 غ)",
+    "description": "Treats and helps prevent spots. Pack size: 40 g. Not for children under 12.",
+    "description_ar": "يعالج حب الشباب ويساعد على الوقاية منه. حجم العبوة: 40 غ. غير مناسب للأطفال دون 12 سنة.",
+    "brand": "Marjan Care",
+    "category": "skin-care",
+    "price": 2200,
+    "special_price": 1980,
+    "status": 1,
+    "stock": {
+      "dammam": 47,
+      "jeddah": 37,
+      "riyadh": 12
+    },
+    "requires_prescription": false,
+    "active_ingredient": "benzoyl peroxide",
+    "age_min": 12
+  },
+  {
+    "sku": "SKIN-015",
+    "name": "Marjan Clotrimazole 1% Cream (20 g)",
+    "name_ar": "كريم كلوتريمازول 1٪ من مرجان (20 غ)",
+    "description": "Treats fungal skin infections such as athlete's foot. Pack size: 20 g. Not for children under 2.",
+    "description_ar": "يعالج الالتهابات الفطرية الجلدية مثل قدم الرياضي. حجم العبوة: 20 غ. غير مناسب للأطفال دون 2 سنة.",
+    "brand": "Marjan Care",
+    "category": "skin-care",
+    "price": 950,
+    "status": 1,
+    "stock": {
+      "dammam": 60,
+      "jeddah": 20,
+      "riyadh": 36
+    },
+    "requires_prescription": false,
+    "active_ingredient": "clotrimazole",
+    "age_min": 2
+  },
+  {
+    "sku": "SKIN-016",
+    "name": "Marjan Micellar Cleansing Water (250 ml)",
+    "name_ar": "ماء ميسيلار منظف من مرجان (250 مل)",
+    "description": "Removes make-up and impurities without rinsing. Pack size: 250 ml. Not for children under 12.",
+    "description_ar": "يزيل المكياج والشوائب دون الحاجة إلى الشطف. حجم العبوة: 250 مل. غير مناسب للأطفال دون 12 سنة.",
+    "brand": "Marjan Care",
+    "category": "skin-care",
+    "price": 3125,
+    "special_price": 2500,
+    "status": 1,
+    "stock": {
+      "dammam": 0,
+      "jeddah": 24,
+      "riyadh": 27
+    },
+    "requires_prescription": false,
+    "age_min": 12
+  },
+  {
+    "sku": "BABY-008",
+    "name": "Yasmin Nappy Rash Cream (50 g)",
+    "name_ar": "كريم التسلخات للأطفال من ياسمين (50 غ)",
+    "description": "Soothes and protects against nappy rash. Pack size: 50 g.",
+    "description_ar": "يهدئ التسلخات ويحمي منها. حجم العبوة: 50 غ.",
+    "brand": "Yasmin Derma",
+    "category": "baby-care",
+    "price": 1750,
+    "status": 1,
+    "stock": {
+      "dammam": 71,
+      "jeddah": 39,
+      "riyadh": 82
+    },
+    "requires_prescription": false,
+    "active_ingredient": "zinc oxide"
+  },
+  {
+    "sku": "BABY-009",
+    "name": "Yasmin Baby Gentle Shampoo (200 ml)",
+    "name_ar": "شامبو لطيف للأطفال من ياسمين (200 مل)",
+    "description": "Tear-free shampoo for delicate scalps. Pack size: 200 ml.",
+    "description_ar": "شامبو لا يسبب الدموع لفروة رأس الطفل الحساسة. حجم العبوة: 200 مل.",
+    "brand": "Yasmin Derma",
+    "category": "baby-care",
+    "price": 1550,
+    "status": 1,
+    "stock": {
+      "dammam": 97,
+      "jeddah": 109,
+      "riyadh": 72
+    },
+    "requires_prescription": false
+  },
+  {
+    "sku": "BABY-010",
+    "name": "Yasmin Infant Colic Drops (30 ml)",
+    "name_ar": "قطرات المغص للرضع من ياسمين (30 مل)",
+    "description": "Relieves wind and colic in babies. Pack size: 30 ml.",
+    "description_ar": "تخفف الغازات والمغص عند الرضع. حجم العبوة: 30 مل.",
+    "brand": "Yasmin Derma",
+    "category": "baby-care",
+    "price": 1750,
+    "special_price": 1490,
+    "status": 1,
+    "stock": {
+      "dammam": 37,
+      "jeddah": 11,
+      "riyadh": 14
+    },
+    "requires_prescription": false,
+    "active_ingredient": "simethicone"
+  },
+  {
+    "sku": "BABY-011",
+    "name": "Yasmin Fragrance-Free Baby Wipes (60 wipes)",
+    "name_ar": "مناديل مبللة للأطفال بدون عطر من ياسمين (60 منديل)",
+    "description": "99% water wipes for sensitive skin. Pack size: 60 wipes.",
+    "description_ar": "مناديل مكونة من 99٪ ماء للبشرة الحساسة. حجم العبوة: 60 منديل.",
+    "brand": "Yasmin Derma",
+    "category": "baby-care",
+    "price": 950,
+    "special_price": 760,
+    "status": 1,
+    "stock": {
+      "dammam": 11,
+      "jeddah": 0,
+      "riyadh": 118
+    },
+    "requires_prescription": false
+  },
+  {
+    "sku": "ORAL-006",
+    "name": "Wahat Sensitive Fluoride Toothpaste (75 ml)",
+    "name_ar": "معجون أسنان بالفلورايد للأسنان الحساسة من واحات (75 مل)",
+    "description": "Daily protection for sensitive teeth. Pack size: 75 ml. Not for children under 6.",
+    "description_ar": "حماية يومية للأسنان الحساسة. حجم العبوة: 75 مل. غير مناسب للأطفال دون 6 سنة.",
+    "brand": "Wahat Labs",
+    "category": "oral-care",
+    "price": 1275,
+    "status": 1,
+    "stock": {
+      "dammam": 27,
+      "jeddah": 57,
+      "riyadh": 102
+    },
+    "requires_prescription": false,
+    "active_ingredient": "potassium nitrate, sodium fluoride",
+    "age_min": 6
+  },
+  {
+    "sku": "ORAL-007",
+    "name": "Wahat Chlorhexidine 0.12% Mouthwash (250 ml)",
+    "name_ar": "غسول فم كلورهيكسيدين 0.12٪ من واحات (250 مل)",
+    "description": "Antiseptic mouthwash for gum care. Pack size: 250 ml. Not for children under 12.",
+    "description_ar": "غسول فم مطهر للعناية باللثة. حجم العبوة: 250 مل. غير مناسب للأطفال دون 12 سنة.",
+    "brand": "Wahat Labs",
+    "category": "oral-care",
+    "price": 1925,
+    "status": 1,
+    "stock": {
+      "dammam": 71,
+      "jeddah": 110,
+      "riyadh": 44
+    },
+    "requires_prescription": false,
+    "active_ingredient": "chlorhexidine",
+    "age_min": 12
+  },
+  {
+    "sku": "ORAL-008",
+    "name": "Wahat Kids Strawberry Toothpaste (50 ml)",
+    "name_ar": "معجون أسنان للأطفال بنكهة الفراولة من واحات (50 مل)",
+    "description": "Low-fluoride toothpaste for children aged 2 to 6. Pack size: 50 ml. Not for children under 2.",
+    "description_ar": "معجون منخفض الفلورايد للأطفال من 2 إلى 6 سنوات. حجم العبوة: 50 مل. غير مناسب للأطفال دون 2 سنة.",
+    "brand": "Wahat Labs",
+    "category": "oral-care",
+    "price": 925,
+    "special_price": 740,
+    "status": 1,
+    "stock": {
+      "dammam": 113,
+      "jeddah": 0,
+      "riyadh": 19
+    },
+    "requires_prescription": false,
+    "active_ingredient": "sodium fluoride",
+    "age_min": 2
+  },
+  {
+    "sku": "FAID-006",
+    "name": "Marjan Povidone-Iodine 10% Antiseptic Solution (60 ml)",
+    "name_ar": "محلول مطهر بوفيدون يود 10٪ من مرجان (60 مل)",
+    "description": "Cleans minor cuts and grazes. Pack size: 60 ml.",
+    "description_ar": "لتطهير الجروح والخدوش البسيطة. حجم العبوة: 60 مل.",
+    "brand": "Marjan Care",
+    "category": "first-aid",
+    "price": 1075,
+    "status": 1,
+    "stock": {
+      "dammam": 60,
+      "jeddah": 0,
+      "riyadh": 75
+    },
+    "requires_prescription": false,
+    "active_ingredient": "povidone-iodine"
+  },
+  {
+    "sku": "FAID-007",
+    "name": "Marjan Assorted Adhesive Bandages (20 pieces)",
+    "name_ar": "لاصقات جروح متنوعة من مرجان (20 قطعة)",
+    "description": "Breathable plasters in assorted sizes. Pack size: 20 pieces.",
+    "description_ar": "لاصقات جروح قابلة للتنفس بأحجام متنوعة. حجم العبوة: 20 قطعة.",
+    "brand": "Marjan Care",
+    "category": "first-aid",
+    "price": 775,
+    "status": 1,
+    "stock": {
+      "dammam": 42,
+      "jeddah": 86,
+      "riyadh": 28
+    },
+    "requires_prescription": false
+  },
+  {
+    "sku": "FAID-008",
+    "name": "Marjan Digital Thermometer (1 piece)",
+    "name_ar": "ميزان حرارة رقمي من مرجان (1 قطعة)",
+    "description": "Fast 10-second reading with fever alert. Pack size: 1 piece.",
+    "description_ar": "قراءة سريعة خلال 10 ثوانٍ مع تنبيه للحرارة. حجم العبوة: 1 قطعة.",
+    "brand": "Marjan Care",
+    "category": "first-aid",
+    "price": 2800,
+    "special_price": 2380,
+    "status": 1,
+    "stock": {
+      "dammam": 15,
+      "jeddah": 61,
+      "riyadh": 66
+    },
+    "requires_prescription": false
+  },
+  {
+    "sku": "DIAB-005",
+    "name": "Sahra Blood Glucose Test Strips (25 strips)",
+    "name_ar": "شرائط فحص سكر الدم من صحراء (25 شريط)",
+    "description": "Accurate blood sugar results in 5 seconds. Pack size: 25 strips.",
+    "description_ar": "نتائج دقيقة لسكر الدم خلال 5 ثوانٍ. حجم العبوة: 25 شريط.",
+    "brand": "Sahra Pharma",
+    "category": "diabetes-care",
+    "price": 4725,
+    "special_price": 3780,
+    "status": 1,
+    "stock": {
+      "dammam": 47,
+      "jeddah": 101,
+      "riyadh": 98
+    },
+    "requires_prescription": false
+  },
+  {
+    "sku": "DIAB-006",
+    "name": "Sahra Sterile Lancets 30G (100 lancets)",
+    "name_ar": "إبر وخز معقمة 30G من صحراء (100 إبرة)",
+    "description": "Ultra-thin lancets for comfortable testing. Pack size: 100 lancets.",
+    "description_ar": "إبر رفيعة جداً لفحص مريح. حجم العبوة: 100 إبرة.",
+    "brand": "Sahra Pharma",
+    "category": "diabetes-care",
+    "price": 1450,
+    "status": 1,
+    "stock": {
+      "dammam": 94,
+      "jeddah": 95,
+      "riyadh": 64
+    },
+    "requires_prescription": false
+  }
+]

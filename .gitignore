@@ -1,0 +1,4 @@
+/server
+/gendata
+*.test
+.env
