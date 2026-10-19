@@ -12,6 +12,8 @@ working increments over big rewrites.
 - Go, standard library only so far (`net/http` ServeMux with Go 1.22 patterns).
   chi is acceptable if routing gets complicated.
 - Agent loop written by hand with an official LLM Go SDK. **No agent framework.**
+  Written against Anthropic types; `agent.OpenAICompat` translates to any
+  OpenAI-compatible API (free tiers / local Ollama) until there's API credit.
 - Chat UI: one HTML page with a little JS or htmx, served by the Go server.
 - Later: a `magento` adapter talking to a Magento store over REST.
 
@@ -36,7 +38,8 @@ internal/commerce/   types.go (domain), adapter.go (interface, errors, Session)
 internal/commerce/mock/     in-memory adapter over data/products.json
 internal/commerce/magento/  (not started)
 internal/api/        HTTP handlers and response views
-internal/agent/      (not started) agent loop and tools
+internal/agent/      agent loop (Anthropic Go SDK, claude-opus-5-5) and 5 tools;
+                     openai.go adapts the loop to OpenAI-compatible APIs
 data/products.json   150 fictional products
 ```
 
@@ -87,7 +90,9 @@ pricing, ACP/UCP agentic commerce protocols.
 - [x] mock adapter (catalogue + cart) with tests
 - [x] `GET /products/search`, `GET /products/{sku}`, `GET /products/{sku}/availability`
 - [x] session middleware + cart endpoints (`GET/PATCH /session`, `/cart`, `/cart/items[/{sku}]`)
-- [ ] agent loop + tools (search, product details, availability, add to cart, view cart)
+- [x] agent loop + tools (search, product details, availability, add to cart, view cart), `POST /chat`
+- [x] `-provider` flag: OpenAI-compatible backend (gemini, groq, openrouter, ollama)
+- [ ] live test of the agent with a real API key (free provider first, Anthropic later)
 - [ ] chat UI
 - [ ] magento adapter
 
@@ -95,7 +100,7 @@ pricing, ACP/UCP agentic commerce protocols.
 
 ```bash
 go test ./...
-go run ./cmd/server            # http://localhost:8080
+go run ./cmd/server            # http://localhost:8080 (-addr :8090, -model ...)
 go run ./cmd/gendata           # rewrite data/products.json
 curl 'localhost:8080/products/search?q=paracetamol&city=riyadh'
 curl 'localhost:8080/products/search?q=فيتامين&lang=ar'
@@ -118,3 +123,44 @@ curl -b jar -c jar -X PATCH localhost:8080/session -d '{"city":"jeddah"}'
 Bodies are strict JSON: unknown fields (`price`, `cart_id`) are a 400.
 Sessions and carts are in memory and reset on restart. Known gap: changing
 city does not re-check stock for lines already in the cart (do it at checkout).
+
+Chat (needs `ANTHROPIC_API_KEY`; without it `/chat` returns 502 and the log
+says which credential is missing):
+
+```bash
+curl -b jar -c jar -X POST localhost:8080/chat -d '{"message":"do you have paracetamol?"}'
+curl -b jar -c jar -X DELETE localhost:8080/chat   # new conversation, cart kept
+```
+
+API keys go in `.env` (git-ignored; copy `.env.example`). The server loads
+it on start (`-env path` to change); shell variables win. Never commit keys.
+`LLM_PROVIDER`, `LLM_MODEL`, `LLM_BASE_URL` in `.env` pick the backend so a
+plain `go run ./cmd/server` uses it. A `-provider` naming a different backend
+ignores `LLM_MODEL`/`LLM_BASE_URL`; `-model/-base-url` override individually.
+
+Free/other model backends (Anthropic is the default; switch back by dropping
+`-provider`). `-model` is required for these; `-base-url` overrides the preset:
+
+```bash
+GEMINI_API_KEY=... go run ./cmd/server -provider gemini -model gemini-2.5-flash
+go run ./cmd/server -provider ollama -model qwen3:8b      # local, no key
+# also: groq (GROQ_API_KEY), openrouter (OPENROUTER_API_KEY),
+#       openai + -base-url (OPENAI_API_KEY)
+```
+
+The adapter drops Anthropic-only features (prompt caching, thinking, effort).
+It also coerces argument type slips from small models using the tool schema
+(`"2"` → 2, `"false"` → false, `"null"` optional fields dropped); unknown
+fields still reach the strict decoder and are rejected. llama3.2:3b (tested
+2026-10-19) is too weak: invents fields like `delivery_city`, ignores tool
+errors and makes up products. Gemini 3's thought signatures
+(`extra_content` on tool calls) are kept in memory by call ID and echoed back.
+Smaller models are weaker at tool use and Arabic; the guardrails still hold
+because they live in the adapter and tool decoding, not the model.
+
+Agent notes: conversations are in memory, keyed by the session's cart ID.
+History is append-only (the delivery city and language ride along on each
+customer message, not in the system prompt), which keeps the prompt cache and
+Opus 5.5's thinking blocks valid. Max 8 model calls per message. Tool inputs
+are decoded strictly, so `city`, `cart_id` or `price` from the model is an
+error the model sees. Tests use a fake model (`internal/agent/agent_test.go`).

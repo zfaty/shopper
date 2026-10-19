@@ -2,3 +2,4 @@
 /gendata
 *.test
 .env
+jar

@@ -21,6 +21,7 @@ type Server struct {
 	now      func() time.Time
 	mux      *http.ServeMux
 	sessions *sessionStore
+	chat     Chatter // nil until SetChatter
 }
 
 // New returns an http.Handler serving the product, session and cart API.
@@ -41,6 +42,8 @@ func New(store commerce.CommerceAdapter) *Server {
 	s.mux.HandleFunc("POST /cart/items", s.withSession(s.addCartItem))
 	s.mux.HandleFunc("PATCH /cart/items/{sku}", s.withSession(s.updateCartItem))
 	s.mux.HandleFunc("DELETE /cart/items/{sku}", s.withSession(s.removeCartItem))
+	s.mux.HandleFunc("POST /chat", s.withSession(s.postChat))
+	s.mux.HandleFunc("DELETE /chat", s.withSession(s.deleteChat))
 	return s
 }
 
